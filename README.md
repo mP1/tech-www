@@ -3,6 +3,6 @@ Blogs, news, mostly about technology mostly computing
 
 # blogs
 
-- [https://www.alanzucconi.com/](Game Development, Shader Coding & Artificial Intelligence)
-- [https://dmitry.gr/] Cool project like Linux on 4004
-- [https://sebsite.pw/](Sebsite)
+- [Alan Zucconi - Game Development, Shader Coding & Artificial Intelligence](https://www.alanzucconi.com)
+- [Dmitry Grinberg Cool project like Linux on 4004](https://dmitry.gr)
+- [Sebsite](https://sebsite.pw)
