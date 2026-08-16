@@ -7,3 +7,4 @@ Blogs, news, mostly about technology mostly computing
 - [Dmitry Grinberg Cool project like Linux on 4004](https://dmitry.gr)
 - [PortSwigger Research - Pushing the boundaries of web security](https://portswigger.net/research)
 - [Sebsite](https://sebsite.pw)
+- [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
