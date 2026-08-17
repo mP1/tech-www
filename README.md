@@ -10,4 +10,5 @@ Blogs, news, mostly about technology mostly computing
 - [lwn](https://lwn.net/) LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. See the LWN FAQ for more information, and please consider subscribing to gain full access and support our activities.
 - [PortSwigger Research - Pushing the boundaries of web security](https://portswigger.net/research)
 - [Sebsite](https://sebsite.pw)
+- [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
 - [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
