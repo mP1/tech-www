@@ -16,3 +16,4 @@ Blogs, news, mostly about technology mostly computing
 - [Sebsite](https://sebsite.pw)
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
 - [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
+- [Victor Zverovich](https://vitaut.net/)
