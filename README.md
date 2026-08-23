@@ -18,3 +18,7 @@ Blogs, news, mostly about technology mostly computing
 - [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
 - [Tim Paterson](https://dosmandrivel.blogspot.com) The guy who wrote the original DOS
 - [Victor Zverovich](https://vitaut.net/)
+
+# mags
+
+- [Paged Out](https://pagedout.institute/) Paged Out! is a free experimental (one article == one page) technical magazine about programming (especially programming tricks!), hacking, security hacking, retro computers, modern computers, electronics, demoscene, and other similar topics.
