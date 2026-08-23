@@ -4,6 +4,7 @@ Blogs, news, mostly about technology mostly computing
 # blogs
 
 - [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
+- [Cursor](https://cursor.com/blog)
 - [Dmitry Grinberg Cool project like Linux on 4004](https://dmitry.gr)
 - [Dampfkraft](https://www.dampfkraft.com/) Howdy! I'm Paul McCann, and this is my home on the Internet. I maintain a number of tools related to Japanese text processing, and I'm working on a book about Japanese NLP. I also help run Tokyo Indies, the largest regular game developer meetup in Tokyo.
 - [Daniel Lemire's blog](https://lemire.me/blog/) Daniel Lemire is a software performance expert. He ranks among the top 2% of scientists globally (Stanford/Elsevier 2025) and is one of GitHub's top 1000 most followed developers.
