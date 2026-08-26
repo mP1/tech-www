@@ -18,6 +18,7 @@ Blogs, news, mostly about technology mostly computing
 - [Sebsite](https://sebsite.pw)
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
 - [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
+- [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
 - [Tim Paterson](https://dosmandrivel.blogspot.com) The guy who wrote the original DOS
 - [Victor Zverovich](https://vitaut.net/)
 
