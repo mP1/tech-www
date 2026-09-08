@@ -24,6 +24,7 @@ Blogs, news, mostly about technology mostly computing
 - [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
 - [Tim Paterson](https://dosmandrivel.blogspot.com) The guy who wrote the original DOS
 - [Victor Zverovich](https://vitaut.net/)
+- [The VictoriaMetrics Observability Blog](https://victoriametrics.com/blog/)
 
 # mags
 
