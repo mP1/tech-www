@@ -13,6 +13,7 @@ Blogs, news, mostly about technology mostly computing
 - [Elttam](https://www.elttam.com/resources) Research, experimentation, and continuous improvement are fundamental to how we operate at elttam. Our consultants spend a significant amount of time exploring new technologies, building tooling, analysing vulnerabilities, and turning interesting problems encountered in the field into deeper technical investigations.
 - [Leaded Solder](https://www.leadedsolder.com/) Mostly about old computers like IIGS, 68k Macs etc
 - [lwn](https://lwn.net/) LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. See the LWN FAQ for more information, and please consider subscribing to gain full access and support our activities.
+- [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [Nanochess](https://nanochess.org/) Welcome to my homepage, I'm Óscar Toledo G., and here you'll find my winning entries from contests like the IOCCC, the JS1K and the MSXdev, information about my games for retro consoles, my store of e-books, and also the world's smallest chess programs written by me in C, Java, Javascript and x86/6502 machine code.
 - [PageTable](https://www.pagetable.com/) The "C64" tech blog
 - [PortSwigger Research - Pushing the boundaries of web security](https://portswigger.net/research)
