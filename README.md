@@ -30,6 +30,7 @@ Blogs, news, mostly about technology mostly computing
 - [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
 - [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
 - [Tim Paterson](https://dosmandrivel.blogspot.com) The guy who wrote the original DOS
+- [Vale Rocks](https://vale.rocks/) These are long-form, structured articles. They're written to be evergreen and are revised as necessary to keep them up-to-date. Don't let an old initial publication date scare you off.
 - [Victor Zverovich](https://vitaut.net/)
 - [The VictoriaMetrics Observability Blog](https://victoriametrics.com/blog/)
 
