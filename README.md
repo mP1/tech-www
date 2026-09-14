@@ -6,6 +6,7 @@ Blogs, news, mostly about technology mostly computing
 - [Abseil Blog](https://abseil.io/blog/) Abseil is an open source collection of C++ libraries drawn from the most fundamental pieces of Google’s internal codebase.
 - [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
 - [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
+- [buttondown](https://buttondown.com/blog) Buttondown's engineers, writers, and biggest fans write about the whole thing: engineering challenges, useful tips and tricks, new features, and more.
 - [Cursor](https://cursor.com/blog)
 - [Dmitry Grinberg Cool project like Linux on 4004](https://dmitry.gr)
 - [Dampfkraft](https://www.dampfkraft.com/) Howdy! I'm Paul McCann, and this is my home on the Internet. I maintain a number of tools related to Japanese text processing, and I'm working on a book about Japanese NLP. I also help run Tokyo Indies, the largest regular game developer meetup in Tokyo.
