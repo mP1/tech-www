@@ -4,6 +4,7 @@ Blogs, news, mostly about technology mostly computing
 # blogs
 
 - [0patch blog](https://0patch.com/blog/)
+- [0xax](https://0xax.dev/) Hi, I'm Alex - online I'm better known as 0xAX. I'm fascinated by how computers actually work beneath underneath the abstractions we build on top of them: how a machine boots, how the Linux kernel manages memory and processes, and how programs actually run. Systems Inside is where I write it all down.
 - [Abseil Blog](https://abseil.io/blog/) Abseil is an open source collection of C++ libraries drawn from the most fundamental pieces of Google’s internal codebase.
 - [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
 - [Arhuman's Blog](https://blog.assad.fr/en/post/) Arhuman's Blog Arnaud Assad, Systems Alchemist at Doolta
