@@ -23,6 +23,7 @@ Blogs, news, mostly about technology mostly computing
 - [Nanochess](https://nanochess.org/) Welcome to my homepage, I'm Óscar Toledo G., and here you'll find my winning entries from contests like the IOCCC, the JS1K and the MSXdev, information about my games for retro consoles, my store of e-books, and also the world's smallest chess programs written by me in C, Java, Javascript and x86/6502 machine code.
 - [OpenStreetMap blog](https://blog.openstreetmap.org/)
 - [PageTable](https://www.pagetable.com/) The "C64" tech blog
+- [Paul Graham](https://paulgraham.com/index.html)
 - [PortSwigger Research - Pushing the boundaries of web security](https://portswigger.net/research)
 - [purplesyringa](https://purplesyringa.moe/) Hi! 👋 I'm Alisa Sireneva (she/her), a software developer and blogger from Moscow. I specialize in performance optimization and systems programming. I also have experience with security, compression, and decentralized systems. My primary goal as a writer is to teach the concepts I regularly apply through accessible content. You might recognize me from bangers like:
 - [Quansight Labs](https://labs.quansight.org/blog)
