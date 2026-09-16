@@ -3,6 +3,7 @@ Blogs, news, mostly about technology mostly computing
 
 # blogs
 
+- [0patch blog](https://0patch.com/blog/)
 - [Abseil Blog](https://abseil.io/blog/) Abseil is an open source collection of C++ libraries drawn from the most fundamental pieces of Google’s internal codebase.
 - [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
 - [Arhuman's Blog](https://blog.assad.fr/en/post/) Arhuman's Blog Arnaud Assad, Systems Alchemist at Doolta
