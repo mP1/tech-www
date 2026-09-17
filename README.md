@@ -7,6 +7,7 @@ Blogs, news, mostly about technology mostly computing
 - [0xax](https://0xax.dev/) Hi, I'm Alex - online I'm better known as 0xAX. I'm fascinated by how computers actually work beneath underneath the abstractions we build on top of them: how a machine boots, how the Linux kernel manages memory and processes, and how programs actually run. Systems Inside is where I write it all down.
 - [Abseil Blog](https://abseil.io/blog/) Abseil is an open source collection of C++ libraries drawn from the most fundamental pieces of Google’s internal codebase.
 - [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
+- [Anton](https://antonz.org) Hi, I'm Anton. I work on open source and write interactive technical guides.
 - [Arhuman's Blog](https://blog.assad.fr/en/post/) Arhuman's Blog Arnaud Assad, Systems Alchemist at Doolta
 - [Arun Venkatesan](https://arun.is/blog/) Design Engineer working on something new in the SF Bay Area. Recently, I redesigned and redeveloped the dashboard and design system at Miter. I previously co-founded Carrot Fertility.
 - [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
