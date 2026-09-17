@@ -13,6 +13,7 @@ Blogs, news, mostly about technology mostly computing
 - [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
 - [buttondown](https://buttondown.com/blog) Buttondown's engineers, writers, and biggest fans write about the whole thing: engineering challenges, useful tips and tricks, new features, and more.
 - [Chris Lewis](https://blog.chrislewis.au/)
+- [Colin Leroy-Mira’s](https://www.colino.net/wordpress/) Welcome on Colin Leroy-Mira’s personal website. Retrocomputing I have started experimenting with Apple II hardware projects, and have made a daisy-chainable Smartport “hard drive”. People in the community expressed interest, so I’ve opened a web shop where people can get one in their preferred form factor:
 - [Comma AI](https://blog.comma.ai/)
 - [Cryptiana](https://cryptiana.blogspot.com/) Cryptiana Discussion Forum Call for contribution to my historical cryptography website: Cryptiana.
 - [Cursor](https://cursor.com/blog)
