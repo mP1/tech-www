@@ -11,6 +11,7 @@ Blogs, news, mostly about technology mostly computing
 - [Arhuman's Blog](https://blog.assad.fr/en/post/) Arhuman's Blog Arnaud Assad, Systems Alchemist at Doolta
 - [Arun Venkatesan](https://arun.is/blog/) Design Engineer working on something new in the SF Bay Area. Recently, I redesigned and redeveloped the dashboard and design system at Miter. I previously co-founded Carrot Fertility.
 - [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
+- [Bryce Bostwick](https://bryce.co/) Hi! I’m Bryce Bostwick (previously Bryce Pauken 💍!) — I work on iOS Infrastructure at LinkedIn. I love digging into iOS internals, with an emphasis on finding ways to push frameworks and tooling to new places (sometimes to questionable benefit, but the exploring is always fun either way!)
 - [buttondown](https://buttondown.com/blog) Buttondown's engineers, writers, and biggest fans write about the whole thing: engineering challenges, useful tips and tricks, new features, and more.
 - [Chris Lewis](https://blog.chrislewis.au/)
 - [Colin Leroy-Mira’s](https://www.colino.net/wordpress/) Welcome on Colin Leroy-Mira’s personal website. Retrocomputing I have started experimenting with Apple II hardware projects, and have made a daisy-chainable Smartport “hard drive”. People in the community expressed interest, so I’ve opened a web shop where people can get one in their preferred form factor:
