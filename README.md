@@ -47,6 +47,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # C++
 - [Abseil Blog](https://abseil.io/blog/) Abseil is an open source collection of C++ libraries drawn from the most fundamental pieces of Google’s internal codebase.
+- [Giovanni Dicanio's Blog](https://giodicanio.com/) Giovanni Dicanio's Programming Corner on the Internet
 - [Sandor Drago's blog](https://www.sandordargo.com/) Sandor Dargo's Blog On C++, software development and books
 
 # C64
