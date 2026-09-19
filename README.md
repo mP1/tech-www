@@ -66,6 +66,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
 - [Tim Paterson](https://dosmandrivel.blogspot.com) The guy who wrote the original DOS
 
+# GO Lang
+
+- [The Go Blog](https://go.dev/blog/)
+
 # Linux
 - [lwn](https://lwn.net/) LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. See the LWN FAQ for more information, and please consider subscribing to gain full access and support our activities.
 
