@@ -77,6 +77,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [Paged Out](https://pagedout.institute/) Paged Out! is a free experimental (one article == one page) technical magazine about programming (especially programming tricks!), hacking, security hacking, retro computers, modern computers, electronics, demoscene, and other similar topics.
 
+# Retro
+
+- [The Digital Antiquarian](https://www.filfre.net/) The bulk of the articles here form an historical chronicle of interactive entertainment, digital culture, and other matters adjacent. Because history is always in the making, a project of this nature can never be truly completed. But that’s fine: I’m enjoying the journey immensely.
+
 # Security
 - [watchtowr](https://labs.watchtowr.com/) This blog offers a glimpse into the original research behind the continuous, attacker-aligned engine that drives the watchTowr Platform.
 
