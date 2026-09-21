@@ -19,6 +19,7 @@ Blogs, news, mostly about technology mostly computing
 - [Elttam](https://www.elttam.com/resources) Research, experimentation, and continuous improvement are fundamental to how we operate at elttam. Our consultants spend a significant amount of time exploring new technologies, building tooling, analysing vulnerabilities, and turning interesting problems encountered in the field into deeper technical investigations.
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
 - [Julia Evans](https://jvns.ca/) Hey! I'm Julia. Welcome to my blog. Here's every post I've ever written, organized by category. Enjoy! You can subscribe to a weekly digest of these blog posts. I publish computer zines at Wizard Zines.
+- [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [Nanochess](https://nanochess.org/) Welcome to my homepage, I'm Óscar Toledo G., and here you'll find my winning entries from contests like the IOCCC, the JS1K and the MSXdev, information about my games for retro consoles, my store of e-books, and also the world's smallest chess programs written by me in C, Java, Javascript and x86/6502 machine code.
 - [OpenStreetMap blog](https://blog.openstreetmap.org/)
