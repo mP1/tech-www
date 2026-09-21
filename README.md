@@ -31,6 +31,7 @@ Blogs, news, mostly about technology mostly computing
 - [The rye blog](https://fgiesen.wordpress.com/) This is the blog of Fabian “ryg” Giesen. I work at RAD Game Tools in Kirkland/WA as a programmer. I also used to be active in the demoscene group Farbrausch and have written some useful tools and other pieces of code, most of which are available on my homepage.
 - [Seth Larson](https://sethmlarson.dev/) Hey there! My name is Seth Larson, and I am the Security Developer-in-Residence at the Python Software Foundation working to improve the security posture of the Python ecosystem. I enjoy blogging about software, security, and retro video-games. I maintain a few open source projects including urllib3 and truststore.
 - [Sebsite](https://sebsite.pw)
+- [seldo](https://seldo.com/) I'm Laurie Voss. Developer, npm Inc co-founder, current Developer Relations person.
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
 - [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
 - [UTF-8000](https://utf-8000.jb2170.com/)
