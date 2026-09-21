@@ -32,6 +32,7 @@ Blogs, news, mostly about technology mostly computing
 - [Sebsite](https://sebsite.pw)
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
 - [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
+- [UTF-8000](https://utf-8000.jb2170.com/)
 - [Vale Rocks](https://vale.rocks/) These are long-form, structured articles. They're written to be evergreen and are revised as necessary to keep them up-to-date. Don't let an old initial publication date scare you off.
 - [Victor Zverovich](https://vitaut.net/)
 - [Will Keleher](https://will-keleher.com/posts/) Hi! My name is Will, and I’m an engineering leader focused on observability, legibility, and building effective engineering orgs.
