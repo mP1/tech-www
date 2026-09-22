@@ -3,7 +3,6 @@ Blogs, news, mostly about technology mostly computing
 
 # blogs
 
-- [0patch blog](https://0patch.com/blog/)
 - [0xax](https://0xax.dev/) Hi, I'm Alex - online I'm better known as 0xAX. I'm fascinated by how computers actually work beneath underneath the abstractions we build on top of them: how a machine boots, how the Linux kernel manages memory and processes, and how programs actually run. Systems Inside is where I write it all down.
 - [Abstract Heresies](https://funcall.blogspot.com/) Unorthodox opinions on computer science and programming.
 - [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
@@ -16,7 +15,6 @@ Blogs, news, mostly about technology mostly computing
 - [Cryptiana](https://cryptiana.blogspot.com/) Cryptiana Discussion Forum Call for contribution to my historical cryptography website: Cryptiana.
 - [Dampfkraft](https://www.dampfkraft.com/) Howdy! I'm Paul McCann, and this is my home on the Internet. I maintain a number of tools related to Japanese text processing, and I'm working on a book about Japanese NLP. I also help run Tokyo Indies, the largest regular game developer meetup in Tokyo.
 - [Daniel Lemire's blog](https://lemire.me/blog/) Daniel Lemire is a software performance expert. He ranks among the top 2% of scientists globally (Stanford/Elsevier 2025) and is one of GitHub's top 1000 most followed developers.
-- [Elttam](https://www.elttam.com/resources) Research, experimentation, and continuous improvement are fundamental to how we operate at elttam. Our consultants spend a significant amount of time exploring new technologies, building tooling, analysing vulnerabilities, and turning interesting problems encountered in the field into deeper technical investigations.
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
 - [](https://blog.glennklockwood.com/p/blog-page.html)
 - [Julia Evans](https://jvns.ca/) Hey! I'm Julia. Welcome to my blog. Here's every post I've ever written, organized by category. Enjoy! You can subscribe to a weekly digest of these blog posts. I publish computer zines at Wizard Zines.
@@ -25,12 +23,10 @@ Blogs, news, mostly about technology mostly computing
 - [Nanochess](https://nanochess.org/) Welcome to my homepage, I'm Óscar Toledo G., and here you'll find my winning entries from contests like the IOCCC, the JS1K and the MSXdev, information about my games for retro consoles, my store of e-books, and also the world's smallest chess programs written by me in C, Java, Javascript and x86/6502 machine code.
 - [OpenStreetMap blog](https://blog.openstreetmap.org/)
 - [Paul Graham](https://paulgraham.com/index.html)
-- [PortSwigger Research - Pushing the boundaries of web security](https://portswigger.net/research)
 - [purplesyringa](https://purplesyringa.moe/) Hi! 👋 I'm Alisa Sireneva (she/her), a software developer and blogger from Moscow. I specialize in performance optimization and systems programming. I also have experience with security, compression, and decentralized systems. My primary goal as a writer is to teach the concepts I regularly apply through accessible content. You might recognize me from bangers like:
 - [Quansight Labs](https://labs.quansight.org/blog)
 - [raymii](https://raymii.org/s/) I'm Remy, a developer from The Netherlands with a focus on C++, C, some C#, Linux and embedded systems. I currently work on a C++ and Qt stack running on Yocto Linux. It controls hardware, runs the UI and has a few utilities for IoT connectivity and configuration. Technologies I'm fluid in include C, C# & C++, Windows (MFC/Win32), .NET (Core, Xaml, Framework and C++/CLI), Flash, Qt, Ansible, Bash & PowerShell. I was Linux and UNIX sysadmin for over 10 years before I got into development.
 - [The rye blog](https://fgiesen.wordpress.com/) This is the blog of Fabian “ryg” Giesen. I work at RAD Game Tools in Kirkland/WA as a programmer. I also used to be active in the demoscene group Farbrausch and have written some useful tools and other pieces of code, most of which are available on my homepage.
-- [Seth Larson](https://sethmlarson.dev/) Hey there! My name is Seth Larson, and I am the Security Developer-in-Residence at the Python Software Foundation working to improve the security posture of the Python ecosystem. I enjoy blogging about software, security, and retro video-games. I maintain a few open source projects including urllib3 and truststore.
 - [Sebsite](https://sebsite.pw)
 - [seldo](https://seldo.com/) I'm Laurie Voss. Developer, npm Inc co-founder, current Developer Relations person.
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
@@ -95,7 +91,11 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [The Digital Antiquarian](https://www.filfre.net/) The bulk of the articles here form an historical chronicle of interactive entertainment, digital culture, and other matters adjacent. Because history is always in the making, a project of this nature can never be truly completed. But that’s fine: I’m enjoying the journey immensely.
 
 # Security
+- [0patch blog](https://0patch.com/blog/)
+- [Elttam](https://www.elttam.com/resources) Research, experimentation, and continuous improvement are fundamental to how we operate at elttam. Our consultants spend a significant amount of time exploring new technologies, building tooling, analysing vulnerabilities, and turning interesting problems encountered in the field into deeper technical investigations.
 - [gynvael.coldwind](https://gynvael.coldwind.pl/?blog=1&lang=en)
+- [PortSwigger Research - Pushing the boundaries of web security](https://portswigger.net/research)
+- [Seth Larson](https://sethmlarson.dev/) Hey there! My name is Seth Larson, and I am the Security Developer-in-Residence at the Python Software Foundation working to improve the security posture of the Python ecosystem. I enjoy blogging about software, security, and retro video-games. I maintain a few open source projects including urllib3 and truststore.
 - [watchtowr](https://labs.watchtowr.com/) This blog offers a glimpse into the original research behind the continuous, attacker-aligned engine that drives the watchTowr Platform.
 
 # Web
