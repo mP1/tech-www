@@ -18,6 +18,7 @@ Blogs, news, mostly about technology mostly computing
 - [Daniel Lemire's blog](https://lemire.me/blog/) Daniel Lemire is a software performance expert. He ranks among the top 2% of scientists globally (Stanford/Elsevier 2025) and is one of GitHub's top 1000 most followed developers.
 - [Elttam](https://www.elttam.com/resources) Research, experimentation, and continuous improvement are fundamental to how we operate at elttam. Our consultants spend a significant amount of time exploring new technologies, building tooling, analysing vulnerabilities, and turning interesting problems encountered in the field into deeper technical investigations.
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
+- [](https://blog.glennklockwood.com/p/blog-page.html)
 - [Julia Evans](https://jvns.ca/) Hey! I'm Julia. Welcome to my blog. Here's every post I've ever written, organized by category. Enjoy! You can subscribe to a weekly digest of these blog posts. I publish computer zines at Wizard Zines.
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
@@ -34,6 +35,7 @@ Blogs, news, mostly about technology mostly computing
 - [seldo](https://seldo.com/) I'm Laurie Voss. Developer, npm Inc co-founder, current Developer Relations person.
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
 - [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
+- [Unsung](https://unsung.aresluna.org/) Software craft and quality. Posts by Marcin Wichary
 - [UTF-8000](https://utf-8000.jb2170.com/)
 - [Vale Rocks](https://vale.rocks/) These are long-form, structured articles. They're written to be evergreen and are revised as necessary to keep them up-to-date. Don't let an old initial publication date scare you off.
 - [Victor Zverovich](https://vitaut.net/)
