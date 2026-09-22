@@ -77,6 +77,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [The Go Blog](https://go.dev/blog/)
 
+# Graphics
+
+- [Gabriel O'Flaherty-Chan](https://gabrieloc.com/)
+
 # Linux
 - [lwn](https://lwn.net/) LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. See the LWN FAQ for more information, and please consider subscribing to gain full access and support our activities.
 
