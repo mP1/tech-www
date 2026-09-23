@@ -39,6 +39,7 @@ Blogs, news, mostly about technology mostly computing
 - [The VictoriaMetrics Observability Blog](https://victoriametrics.com/blog/)
 
 # AI blogs
+- [Colin Breck](https://blog.colinbreck.com/) Essays on software, engineering, people, and teams.
 - [Comma AI](https://blog.comma.ai/)
 - [Cursor](https://cursor.com/blog)
 
