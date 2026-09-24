@@ -9,7 +9,6 @@ Blogs, news, mostly about technology mostly computing
 - [Anton](https://antonz.org) Hi, I'm Anton. I work on open source and write interactive technical guides.
 - [Arhuman's Blog](https://blog.assad.fr/en/post/) Arhuman's Blog Arnaud Assad, Systems Alchemist at Doolta
 - [Arun Venkatesan](https://arun.is/blog/) Design Engineer working on something new in the SF Bay Area. Recently, I redesigned and redeveloped the dashboard and design system at Miter. I previously co-founded Carrot Fertility.
-- [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
 - [buttondown](https://buttondown.com/blog) Buttondown's engineers, writers, and biggest fans write about the whole thing: engineering challenges, useful tips and tricks, new features, and more.
 - [Chris Lewis](https://blog.chrislewis.au/)
 - [Cryptiana](https://cryptiana.blogspot.com/) Cryptiana Discussion Forum Call for contribution to my historical cryptography website: Cryptiana.
@@ -76,6 +75,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Scott Hanselman](https://www.hanselman.com/blog/) Hi, I'm Scott Hanselman. I'm a programmer, teacher, speaker, podcaster, and unapologetic fan of the open web. I work from my home office in Portland, Oregon as a VP and Member of Technical Staff at Microsoft and GitHub. I spend my days thinking about developers, community, .NET, open source, AI developer experiences, Azure, GitHub, and how technology can be more useful, inclusive, and human.
 - [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
 - [Tim Paterson](https://dosmandrivel.blogspot.com) The guy who wrote the original DOS
+
+# Excel
+
+- [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
 
 # GO Lang
 
