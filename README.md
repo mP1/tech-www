@@ -113,3 +113,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Web
 - [Ahmad Shadeed](https://buttondown.com/ishadeed/archive/) Hello, this is Ahmad Shadeed. I work at the intersection of design and code. I usually publish CSS articles on ishadeed.com, defensivecss.dev, and rtlstyling.com.
 - [web.dev](https://web.dev/blog) Blog - Our latest news, updates, and stories for developers
+
+# Zig
+
+- [Zig](https://ziglang.org/devlog)
