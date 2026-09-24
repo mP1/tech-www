@@ -66,6 +66,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [KGOnTech](https://kguttag.com/) Since 2011, the blog KGOnTech (www.kguttag.com) has analyzed consumer display devices and systems. The blog presents the technical analysis and opinions of Karl Guttag, who has 48 years of experience in the electronics industry, specializing in display devices, headset displays, projector displays, graphics accelerators, and video game devices. Karl Guttag has 40 years of experience in Graphics and Image Processors, Digital Signal Processing (DSP), memory architecture, display devices (LCOS and DLP), and display systems, including heads-up displays and near-eye displays (augmented reality and virtual reality).   For the last 35 years, I have generally been the lead technical person on the design and/or system product, rising to TI Fellow at Texas Instruments and serving as the CTO at three startups.  He is a named inventor on 150 issued U.S. Patents, including key patents related to display devices, graphics/ imaging processors, graphics interface circuits, microprocessors, signal processing (DSP), Synchronous DRAMs, and Video/Graphics DRAM.  Billions of dollars of yearly revenue have been attributed to products using these inventions.
 - [FEX emu](https://fex-emu.com/blog/) A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
+# Databases
+
+- [Pinecone](https://www.pinecone.io/blog/)
+
 # DOS / Windows
 
 - [MartyPC](https://martypc.blogspot.com) Adventures in PC Emulation
