@@ -79,6 +79,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Excel
 
 - [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
+- [Digital Mill](https://digitalmill.net/blog/) Digital Mill - Transforming raw practices into automated good processes
 
 # GO Lang
 
