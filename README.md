@@ -69,6 +69,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # DOS / Windows
 
 - [MartyPC](https://martypc.blogspot.com) Adventures in PC Emulation
+- [Scott Hanselman](https://www.hanselman.com/blog/) Hi, I'm Scott Hanselman. I'm a programmer, teacher, speaker, podcaster, and unapologetic fan of the open web. I work from my home office in Portland, Oregon as a VP and Member of Technical Staff at Microsoft and GitHub. I spend my days thinking about developers, community, .NET, open source, AI developer experiences, Azure, GitHub, and how technology can be more useful, inclusive, and human.
 - [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
 - [Tim Paterson](https://dosmandrivel.blogspot.com) The guy who wrote the original DOS
 
