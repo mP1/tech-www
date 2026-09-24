@@ -16,7 +16,7 @@ Blogs, news, mostly about technology mostly computing
 - [Daniel Lemire's blog](https://lemire.me/blog/) Daniel Lemire is a software performance expert. He ranks among the top 2% of scientists globally (Stanford/Elsevier 2025) and is one of GitHub's top 1000 most followed developers.
 - [Desktop colors](https://desktopcolors.com/) Desktop background colors, by operating system
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
-- [](https://blog.glennklockwood.com/p/blog-page.html)
+- [Glenn K Lockwood](https://blog.glennklockwood.com/p/blog-page.html)
 - [Julia Evans](https://jvns.ca/) Hey! I'm Julia. Welcome to my blog. Here's every post I've ever written, organized by category. Enjoy! You can subscribe to a weekly digest of these blog posts. I publish computer zines at Wizard Zines.
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
