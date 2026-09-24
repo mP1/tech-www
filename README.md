@@ -86,6 +86,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Gabriel O'Flaherty-Chan](https://gabrieloc.com/)
 
 # Linux
+
+- [ItsFOSS](https://itsfoss.com/) With the FOSS Weekly Newsletter, you learn useful Linux tips, discover applications, explore new distros and stay updated with the latest from Linux world
 - [lwn](https://lwn.net/) LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. See the LWN FAQ for more information, and please consider subscribing to gain full access and support our activities.
 
 # mags
