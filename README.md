@@ -43,6 +43,7 @@ Blogs, news, mostly about technology mostly computing
 - [Colin Breck](https://blog.colinbreck.com/) Essays on software, engineering, people, and teams.
 - [Comma AI](https://blog.comma.ai/)
 - [Cursor](https://cursor.com/blog)
+- [Freestyle](https://www.freestyle.sh/blog) Full Linux VMs for AI Agents
 
 # Apple blogs
 Not exclusively Apple/IOS/IPad but these have a focus.
