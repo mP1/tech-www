@@ -70,6 +70,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Databases
 
+- [DuckDB](https://duckdb.org/news/)
 - [Pinecone](https://www.pinecone.io/blog/)
 - [rynr.dev](https://rynr.dev/blog/)
 
