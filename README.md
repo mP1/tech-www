@@ -109,6 +109,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [gynvael.coldwind](https://gynvael.coldwind.pl/?blog=1&lang=en)
 - [PortSwigger Research - Pushing the boundaries of web security](https://portswigger.net/research)
 - [Seth Larson](https://sethmlarson.dev/) Hey there! My name is Seth Larson, and I am the Security Developer-in-Residence at the Python Software Foundation working to improve the security posture of the Python ecosystem. I enjoy blogging about software, security, and retro video-games. I maintain a few open source projects including urllib3 and truststore.
+- [Socket blog](https://socket.dev/blog) https://socket.dev/blog
 - [watchtowr](https://labs.watchtowr.com/) This blog offers a glimpse into the original research behind the continuous, attacker-aligned engine that drives the watchTowr Platform.
 
 # Web
