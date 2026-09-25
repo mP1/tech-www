@@ -69,6 +69,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Databases
 
 - [Pinecone](https://www.pinecone.io/blog/)
+- [rynr.dev](https://rynr.dev/blog/)
 
 # DOS / Windows
 
