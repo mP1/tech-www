@@ -105,6 +105,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [The Digital Antiquarian](https://www.filfre.net/) The bulk of the articles here form an historical chronicle of interactive entertainment, digital culture, and other matters adjacent. Because history is always in the making, a project of this nature can never be truly completed. But that’s fine: I’m enjoying the journey immensely.
 
+# Ruby
+
+- [RubyOnRails](https://rubyonrails.org/)
+
 # Security
 - [0patch blog](https://0patch.com/blog/)
 - [Elttam](https://www.elttam.com/resources) Research, experimentation, and continuous improvement are fundamental to how we operate at elttam. Our consultants spend a significant amount of time exploring new technologies, building tooling, analysing vulnerabilities, and turning interesting problems encountered in the field into deeper technical investigations.
