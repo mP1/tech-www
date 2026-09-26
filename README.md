@@ -21,6 +21,7 @@ Blogs, news, mostly about technology mostly computing
 - [Julia Evans](https://jvns.ca/) Hey! I'm Julia. Welcome to my blog. Here's every post I've ever written, organized by category. Enjoy! You can subscribe to a weekly digest of these blog posts. I publish computer zines at Wizard Zines.
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
+- [Microsoft 365 Insider Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/microsoft365insiderblog) Welcome to the Microsoft 365 Insider blog! Get updates and insights about Microsoft 365 features as they release to preview channels on Windows, the web, Mac, iOS, and Android.
 - [Nanochess](https://nanochess.org/) Welcome to my homepage, I'm Óscar Toledo G., and here you'll find my winning entries from contests like the IOCCC, the JS1K and the MSXdev, information about my games for retro consoles, my store of e-books, and also the world's smallest chess programs written by me in C, Java, Javascript and x86/6502 machine code.
 - [OpenStreetMap blog](https://blog.openstreetmap.org/)
 - [Paul Graham](https://paulgraham.com/index.html)
