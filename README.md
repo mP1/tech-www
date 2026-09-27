@@ -62,6 +62,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Sandor Drago's blog](https://www.sandordargo.com/) Sandor Dargo's Blog On C++, software development and books
 
 # C64
+
+- [Games Explained](https://gamesexplained.com/) How every game actually works — down to the code — with interactive visuals & secrets.
 - [PageTable](https://www.pagetable.com/) The "C64" tech blog
 
 # CPU
