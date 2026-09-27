@@ -33,7 +33,6 @@ Blogs, news, mostly about technology mostly computing
 - [Sebsite](https://sebsite.pw)
 - [seldo](https://seldo.com/) I'm Laurie Voss. Developer, npm Inc co-founder, current Developer Relations person.
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
-- [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
 - [Unsung](https://unsung.aresluna.org/) Software craft and quality. Posts by Marcin Wichary
 - [UTF-8000](https://utf-8000.jb2170.com/)
 - [Vale Rocks](https://vale.rocks/) These are long-form, structured articles. They're written to be evergreen and are revised as necessary to keep them up-to-date. Don't let an old initial publication date scare you off.
@@ -118,6 +117,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Ruby
 
 - [RubyOnRails](https://rubyonrails.org/)
+- [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
 
 # Security
 - [0patch blog](https://0patch.com/blog/)
