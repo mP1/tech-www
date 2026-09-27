@@ -17,6 +17,7 @@ Blogs, news, mostly about technology mostly computing
 - [Desktop colors](https://desktopcolors.com/) Desktop background colors, by operating system
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
 - [Glenn K Lockwood](https://blog.glennklockwood.com/p/blog-page.html)
+- [github blog](https://github.blog/)
 - [Jardo](https://jardo.dev/blog) Hey, I'm Jared, but you can call me Jardo. I’m an experienced software developer, consultant, open-source maintainer, surfer, and metal head. I work with organizations all over the world to help them learn from the past and make the most of their technology.
 - [Joe’s Blog](https://jointhefreeworld.org/blog/)
 - [Julia Evans](https://jvns.ca/) Hey! I'm Julia. Welcome to my blog. Here's every post I've ever written, organized by category. Enjoy! You can subscribe to a weekly digest of these blog posts. I publish computer zines at Wizard Zines.
