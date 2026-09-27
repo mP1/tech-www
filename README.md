@@ -40,6 +40,7 @@ Blogs, news, mostly about technology mostly computing
 - [Victor Zverovich](https://vitaut.net/)
 - [The VictoriaMetrics Observability Blog](https://victoriametrics.com/blog/)
 - [Will Keleher](https://will-keleher.com/posts/) Hi! My name is Will, and I’m an engineering leader focused on observability, legibility, and building effective engineering orgs.
+- [Yegor256](https://www.yegor256.com/)
 
 # AI blogs
 
