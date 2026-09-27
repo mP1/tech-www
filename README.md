@@ -103,6 +103,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Gabriel O'Flaherty-Chan](https://gabrieloc.com/)
 - [Marek Fišer](https://marekfiser.com/about/) Hi, my name is Marek Fišer. I am originally from the Czech Republic and I live on the west coast of the US now.  From a young age I was fascinated by programming and fractals which led me to study computer science, math, and computer graphics. Turns out that knowledge in these fields is the perfect skill set for making video games so despite me not planning this, I am now a full-time game developer and co-founder of MaFi Games studio working on a simulation game called Captain of Industry. In my free time (which is very limited these days) I like to play piano, drums, ski, cook, and make fractal art.
 
+# Java
+
+- [Stephen Colebourne's](https://blog.joda.org/) Stephen Colebourne's blog - Thoughts and Musings on the world of Java and beyond
+
 # Linux
 
 - [ItsFOSS](https://itsfoss.com/) With the FOSS Weekly Newsletter, you learn useful Linux tips, discover applications, explore new distros and stay updated with the latest from Linux world
