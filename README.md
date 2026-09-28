@@ -82,6 +82,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Azure SQL](https://devblogs.microsoft.com/azure-sql/)
 - [DuckDB](https://duckdb.org/news/)
 - [Pinecone](https://www.pinecone.io/blog/)
+- [QuestDB](https://questdb.com/blog/) The latest from QuestDB
 - [rynr.dev](https://rynr.dev/blog/)
 - [Supabase](https://supabase.com/blog)
 
