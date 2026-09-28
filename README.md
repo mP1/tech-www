@@ -83,6 +83,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [DuckDB](https://duckdb.org/news/)
 - [Pinecone](https://www.pinecone.io/blog/)
 - [rynr.dev](https://rynr.dev/blog/)
+- [Supabase](https://supabase.com/blog)
 
 # DOS / Windows
 
