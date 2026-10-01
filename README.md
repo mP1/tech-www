@@ -116,6 +116,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Java
 
+- [Spring blog](https://spring.io/blog)
 - [Stephen Colebourne's](https://blog.joda.org/) Stephen Colebourne's blog - Thoughts and Musings on the world of Java and beyond
 
 # Linux
