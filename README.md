@@ -6,7 +6,6 @@ Blogs, news, mostly about technology mostly computing
 - [0xax](https://0xax.dev/) Hi, I'm Alex - online I'm better known as 0xAX. I'm fascinated by how computers actually work beneath underneath the abstractions we build on top of them: how a machine boots, how the Linux kernel manages memory and processes, and how programs actually run. Systems Inside is where I write it all down.
 - [Abstract Heresies](https://funcall.blogspot.com/) Unorthodox opinions on computer science and programming.
 - [Adam Sawicki](https://asawicki.info/)
-- [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
 - [Anton](https://antonz.org) Hi, I'm Anton. I work on open source and write interactive technical guides.
 - [Arhuman's Blog](https://blog.assad.fr/en/post/) Arhuman's Blog Arnaud Assad, Systems Alchemist at Doolta
 - [Arun Venkatesan](https://arun.is/blog/) Design Engineer working on something new in the SF Bay Area. Recently, I redesigned and redeveloped the dashboard and design system at Miter. I previously co-founded Carrot Fertility.
@@ -27,7 +26,6 @@ Blogs, news, mostly about technology mostly computing
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [Microsoft 365 Insider Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/microsoft365insiderblog) Welcome to the Microsoft 365 Insider blog! Get updates and insights about Microsoft 365 features as they release to preview channels on Windows, the web, Mac, iOS, and Android.
-- [Nanochess](https://nanochess.org/) Welcome to my homepage, I'm Óscar Toledo G., and here you'll find my winning entries from contests like the IOCCC, the JS1K and the MSXdev, information about my games for retro consoles, my store of e-books, and also the world's smallest chess programs written by me in C, Java, Javascript and x86/6502 machine code.
 - [OpenStreetMap blog](https://blog.openstreetmap.org/)
 - [Paul Graham](https://paulgraham.com/index.html)
 - [Pikuma](https://pikuma.com/blog) My name is Gustavo Pezzi, and I'm the founder of this education platform. I have spent many years working as a university lecturer in the United Kingdom, teaching computer science & mathematics.
@@ -101,6 +99,11 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
 - [D2B](https://d2b.dev/blog)
 - [Digital Mill](https://digitalmill.net/blog/) Digital Mill - Transforming raw practices into automated good processes
+
+# Games
+
+- [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
+- [Nanochess](https://nanochess.org/) Welcome to my homepage, I'm Óscar Toledo G., and here you'll find my winning entries from contests like the IOCCC, the JS1K and the MSXdev, information about my games for retro consoles, my store of e-books, and also the world's smallest chess programs written by me in C, Java, Javascript and x86/6502 machine code.
 
 # GO Lang
 
