@@ -141,6 +141,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [RubyOnRails](https://rubyonrails.org/)
 - [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
 
+# Rust
+
+- [Rust Blog](https://blog.rust-lang.org/)
+
 # Security
 - [0patch blog](https://0patch.com/blog/)
 - [CERT-EU](https://www.cert.europa.eu/blog) We were born in 2011. While we are administratively hosted within the Directorate-General for Digital Services of the European Commission, our nature is that of an inter-institutional provider, governed by the Interinstitutional Cybersecurity Board that is currently chaired by the European Parliament, and serving all the Union institutions, bodies, offices and agencies (Union entities), located in the continent and beyond.
