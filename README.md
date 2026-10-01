@@ -117,6 +117,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Haskell
 
 - [data haskell](https://www.datahaskell.org/index.html) DataHaskell is an open-source organization devoted to enabling reliable and reproducible data science and machine learning by leveraging the Haskell programming language.
+- [Haskell](https://blog.haskell.org/) Haskell Blog
 
 # Java
 
