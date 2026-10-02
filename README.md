@@ -166,6 +166,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Web
 - [Ahmad Shadeed](https://buttondown.com/ishadeed/archive/) Hello, this is Ahmad Shadeed. I work at the intersection of design and code. I usually publish CSS articles on ishadeed.com, defensivecss.dev, and rtlstyling.com.
 - [Base31](https://www.base31.org/blog) Notes on the interesting internet. Guides, field notes, and practical ideas for finding, building, and sharing better corners of the web. New articles cover independent websites, useful tools, static publishing, and the people making the web more personal.
+- [Svelte](https://svelte.dev/blog)
 - [web.dev](https://web.dev/blog) Blog - Our latest news, updates, and stories for developers
 
 # Zig
