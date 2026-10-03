@@ -23,6 +23,8 @@ Blogs, news, mostly about technology mostly computing
 - [Jardo](https://jardo.dev/blog) Hey, I'm Jared, but you can call me Jardo. I’m an experienced software developer, consultant, open-source maintainer, surfer, and metal head. I work with organizations all over the world to help them learn from the past and make the most of their technology.
 - [Joe’s Blog](https://jointhefreeworld.org/blog/)
 - [Julia Evans](https://jvns.ca/) Hey! I'm Julia. Welcome to my blog. Here's every post I've ever written, organized by category. Enjoy! You can subscribe to a weekly digest of these blog posts. I publish computer zines at Wizard Zines.
+- [JZLeetCode](https://jzleetcode.github.io/posts/) Read more at: https://jzleetcode.github.io/
+  High quality leet code solutions in Java, Python, C++, and Rust.
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [Microsoft 365 Insider Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/microsoft365insiderblog) Welcome to the Microsoft 365 Insider blog! Get updates and insights about Microsoft 365 features as they release to preview channels on Windows, the web, Mac, iOS, and Android.
