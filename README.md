@@ -55,6 +55,9 @@ Blogs, news, mostly about technology mostly computing
 - [Comma AI](https://blog.comma.ai/)
 - [Cursor](https://cursor.com/blog)
 - [Freestyle](https://www.freestyle.sh/blog) Full Linux VMs for AI Agents
+- [Simon Willison’s Weblog](https://simonwillison.net/) Simon Willison is the creator of Datasette, an open source tool for exploring and publishing data. He currently works full-time building open source tools for data journalism, built around Datasette and SQLite.
+  Prior to becoming an independent open source developer, Simon was an engineering director at Eventbrite. Simon joined Eventbrite through their acquisition of Lanyrd, a Y Combinator funded company he co-founded in 2010.
+  He is a co-creator of the Django Web Framework, and has been blogging about web development and programming since 2002 at simonwillison.net
 
 # Apple blogs
 Not exclusively Apple/IOS/IPad but these have a focus.
