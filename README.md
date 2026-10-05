@@ -149,6 +149,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Retro
 
 - [The Digital Antiquarian](https://www.filfre.net/) The bulk of the articles here form an historical chronicle of interactive entertainment, digital culture, and other matters adjacent. Because history is always in the making, a project of this nature can never be truly completed. But that’s fine: I’m enjoying the journey immensely.
+- [mactrove](https://mactrove.com/)
 
 # Ruby
 
