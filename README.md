@@ -28,6 +28,7 @@ Blogs, news, mostly about technology mostly computing
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [Microsoft 365 Insider Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/microsoft365insiderblog) Welcome to the Microsoft 365 Insider blog! Get updates and insights about Microsoft 365 features as they release to preview channels on Windows, the web, Mac, iOS, and Android.
+- [MTU Ninja - Vincent Bernat](https://vincent.bernat.ch/en/blog)
 - [OpenStreetMap blog](https://blog.openstreetmap.org/)
 - [Paul Graham](https://paulgraham.com/index.html)
 - [Pikuma](https://pikuma.com/blog) My name is Gustavo Pezzi, and I'm the founder of this education platform. I have spent many years working as a university lecturer in the United Kingdom, teaching computer science & mathematics.
