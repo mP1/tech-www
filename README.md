@@ -106,6 +106,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Excel
 
+- [Aspose](https://blog.aspose.com/)
 - [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
 - [D2B](https://d2b.dev/blog)
 - [Digital Mill](https://digitalmill.net/blog/) Digital Mill - Transforming raw practices into automated good processes
