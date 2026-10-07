@@ -109,6 +109,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [The old new thing](https://devblogs.microsoft.com/oldnewthing/) Practical development throughout the evolution of Windows.
 - [Tim Paterson](https://dosmandrivel.blogspot.com) The guy who wrote the original DOS
 
+# Elm
+
+- [elm](https://elm-lang.org/)
+
 # Excel
 
 - [Aspose](https://blog.aspose.com/)
