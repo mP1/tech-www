@@ -179,6 +179,11 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Socket blog](https://socket.dev/blog) https://socket.dev/blog
 - [watchtowr](https://labs.watchtowr.com/) This blog offers a glimpse into the original research behind the continuous, attacker-aligned engine that drives the watchTowr Platform.
 
+# Source control
+
+- [East River Source Control blog](https://ersc.io/blog) Source control that scales.
+  ERSC is creating the building blocks for human ↔ machine collaboration.
+
 # Web
 - [Ahmad Shadeed](https://buttondown.com/ishadeed/archive/) Hello, this is Ahmad Shadeed. I work at the intersection of design and code. I usually publish CSS articles on ishadeed.com, defensivecss.dev, and rtlstyling.com.
 - [Base31](https://www.base31.org/blog) Notes on the interesting internet. Guides, field notes, and practical ideas for finding, building, and sharing better corners of the web. New articles cover independent websites, useful tools, static publishing, and the people making the web more personal.
