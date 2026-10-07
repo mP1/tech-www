@@ -45,6 +45,7 @@ Blogs, news, mostly about technology mostly computing
 - [Scott Jenson](https://jenson.org/) Scott Jenson has been doing user interface design and strategic planning for over 35 years. He worked at Apple on System 7, Newton, and the Apple Human Interface guidelines. He was UX director of Symbian, VP of product design for Cognima, managed mobile UX for Google and was a creative director at frog design in San Francisco. Scott returned to Google in 2013 to lead the Physical Web project and research future Android UX concepts. In 2024, Scott left Google to explore life outside. As a battle-scarred veteran of the software industry, Scott has shipped a consumer spreadsheet, been a part of 2 Mac OS releases, 5 Newton product cycles, 4 commercial website revisions, designed 3 different mobile phone UIs, sworn at innumerable mobile browsers, and has over 35 patents.
 - [Sebsite](https://sebsite.pw)
 - [seldo](https://seldo.com/) I'm Laurie Voss. Developer, npm Inc co-founder, current Developer Relations person.
+- [simon frey](https://simon-frey.com/blog/)
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
 - [Unsung](https://unsung.aresluna.org/) Software craft and quality. Posts by Marcin Wichary
 - [UTF-8000](https://utf-8000.jb2170.com/)
