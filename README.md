@@ -103,6 +103,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [QuestDB](https://questdb.com/blog/) The latest from QuestDB
 - [rynr.dev](https://rynr.dev/blog/)
 - [Supabase](https://supabase.com/blog)
+- [TidesDB](https://tidesdb.com/blog/) Benchmarks, engineering deep-dives, and updates from the TidesDB team.
 
 # DOS / Windows
 
