@@ -87,6 +87,11 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Games Explained](https://gamesexplained.com/) How every game actually works — down to the code — with interactive visuals & secrets.
 - [PageTable](https://www.pagetable.com/) The "C64" tech blog
 
+# Clojure
+
+- [iterate think thoughts](https://yogthos.net/archives.html) This blog documents my experiences with functional programming, specifically focusing on Clojure which has been my language of choice for the last few years. As I've learned more about this style of programming I've come to love it, and I'd like to share some of my experiences with others and maybe convince you to try it out yourself. :)
+  Many ideas that I explore here are not new, but by putting them in writing I hope to provide a clearer understanding for myself and hopefully others. I also strongly believe in the the importance of open source, because it helps us learn and build better software together. To that end I'd like share some of my projects with you.
+
 # CPU
 
 - [Chips and Cheese](https://chipsandcheese.com/)
