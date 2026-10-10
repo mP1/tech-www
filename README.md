@@ -197,6 +197,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Security
 - [0patch blog](https://0patch.com/blog/)
+- [becksec](https://beaksec.github.io/)
 - [CERT-EU](https://www.cert.europa.eu/blog) We were born in 2011. While we are administratively hosted within the Directorate-General for Digital Services of the European Commission, our nature is that of an inter-institutional provider, governed by the Interinstitutional Cybersecurity Board that is currently chaired by the European Parliament, and serving all the Union institutions, bodies, offices and agencies (Union entities), located in the continent and beyond.
 - [Elttam](https://www.elttam.com/resources) Research, experimentation, and continuous improvement are fundamental to how we operate at elttam. Our consultants spend a significant amount of time exploring new technologies, building tooling, analysing vulnerabilities, and turning interesting problems encountered in the field into deeper technical investigations.
 - [gynvael.coldwind](https://gynvael.coldwind.pl/?blog=1&lang=en)
