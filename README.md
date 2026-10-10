@@ -160,6 +160,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Spring blog](https://spring.io/blog)
 - [Stephen Colebourne's](https://blog.joda.org/) Stephen Colebourne's blog - Thoughts and Musings on the world of Java and beyond
 
+# Javascript
+
+- [NextJS](https://nextjs.org/blog) The latest Next.js news
+
 # Linux
 
 - [Greg Kroah-Hartman](http://kroah.com/log/) Linux Kernel Monkey Log
