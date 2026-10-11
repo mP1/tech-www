@@ -109,6 +109,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
   Honest guides and comparisons on moving from Airtable to PostgreSQL: when it makes sense, how to do it without losing data, and how to choose where to land.
 - [Azure SQL](https://devblogs.microsoft.com/azure-sql/)
 - [DuckDB](https://duckdb.org/news/)
+- [MOTHERDUCK BLOG](https://motherduck.com/blog/) DuckDB, MotherDuck, Data Engineering and Data Analytics
 - [Planetscale](https://planetscale.com/blog) The world’s fastest and most scalable cloud databases
 - [Pinecone](https://www.pinecone.io/blog/)
 - [QuestDB](https://questdb.com/blog/) The latest from QuestDB
