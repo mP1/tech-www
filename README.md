@@ -139,6 +139,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
 - [Nanochess](https://nanochess.org/) Welcome to my homepage, I'm Óscar Toledo G., and here you'll find my winning entries from contests like the IOCCC, the JS1K and the MSXdev, information about my games for retro consoles, my store of e-books, and also the world's smallest chess programs written by me in C, Java, Javascript and x86/6502 machine code.
+- [Simon Phipps](https://simonphipps.com/) I’m Simon Phipps. I’m an artist and maker. For over forty years, I’ve made videogames.
+  My career started in 1984, making Jet Power Jack for the BBC Micro in my bedroom, and culminated in 2025 with the ambitious open-world racer Wreckreation. In the four decades between, I’ve had the privilege of being a coder, artist,  designer and producer on some of the industry’s most enduring names – from the punishing platforming of Rick Dangerous and the dark atmosphere of Shadow Man, to the magic of the Harry Potter series and the high-octane worlds of Burnout Paradise, Need for Speed and Wreckreation.
 
 # GO Lang
 
