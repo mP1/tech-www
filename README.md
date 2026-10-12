@@ -244,4 +244,5 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Zig
 
+- [Lukáš Lalinský](https://lalinsky.com/)
 - [Zig](https://ziglang.org/devlog)
