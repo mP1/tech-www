@@ -119,6 +119,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Supabase](https://supabase.com/blog)
 - [TidesDB](https://tidesdb.com/blog/) Benchmarks, engineering deep-dives, and updates from the TidesDB team.
 
+# Devops
+
+- [Pydantic Blog](https://pydantic.dev/articles) Strongly typed opinions from the Pydantic team.
+
 # DOS / Windows
 
 - [MartyPC](https://martypc.blogspot.com) Adventures in PC Emulation
