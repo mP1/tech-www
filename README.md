@@ -242,6 +242,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Base31](https://www.base31.org/blog) Notes on the interesting internet. Guides, field notes, and practical ideas for finding, building, and sharing better corners of the web. New articles cover independent websites, useful tools, static publishing, and the people making the web more personal.
 - [Guillermo Rauch](https://rauchg.com/)
 - [Svelte](https://svelte.dev/blog)
+- [Lea Verou, PhD](https://lea.verou.me/blog/) Hi, I’m Lea! 👋🏼 I make things for making things. I’m an award-winning web standards leader, and have designed several web technologies implemented in your browser. I have launched open source dev tools used by millions, and consult on my areas of expertise. I hold a PhD in usability & innovation from MIT — but chose product over research.
 - [web.dev](https://web.dev/blog) Blog - Our latest news, updates, and stories for developers
 
 # Zig
