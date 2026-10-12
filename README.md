@@ -209,6 +209,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Ruby
 
+- [FastRuby.io](https://www.fastruby.io/blog)
 - [Rails at Scale](https://railsatscale.com/) The Ruby and Rails Infrastructure team at Shopify exists to help ensure that Ruby and Rails are 100-year tools that will continue to merit being our toolchain of choice.
   Our goal is to be stewards of the language and ecosystem, both within Shopify and within the open-source community. We want to evolve Ruby and Rails to meet our needs, to share our approach and code with the Ruby community, to ensure Shopify is using these tools well, and to represent Shopify in that community.
 - [RubyOnRails](https://rubyonrails.org/)
