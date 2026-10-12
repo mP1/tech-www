@@ -19,6 +19,19 @@ Blogs, news, mostly about technology mostly computing
 - [Daniel Mangum](https://danielmangum.com/posts/) My name is Daniel Mangum and I am the Chief Technology Officer at Golioth, where I lead engineering efforts that span hardware, firmware, and cloud software. Previously, I was a principal software engineer at Upbound where I helped build Upbound Cloud, Upbound Marketplace, and the open source Crossplane project. Prior to Upbound, I worked as a counsultant on large-scale cloud deployments at Fortune 500 companies.  I have participated in multiple open source communities, including holding leadership positions in the Kubernetes project. I am equally passionate about hardware and software, and often find myself at the points where they intersect.
 - [David Bushell](https://dbushell.com/blog/)
 - [Desktop colors](https://desktopcolors.com/) Desktop background colors, by operating system
+- [Disconnected](https://disconnect3d.pl/) his blog contains my private/personal notes on random topics I found worth to write about.
+  Here is also a bunch of info on me ;).  
+  Name: Dominik ‘disconnect3d’ Czarnota
+  E-mail: dominik.b.czarnota+dc@gmail.com
+  GitHub: disconnect3d
+  Twitter/X: @disconnect3d_pl (prefer e-mail)
+  Infosec.exchange: @disconnect3d
+  LinkedIn: Dominik Czarnota
+  Staff Security Engineer @ Trail of Bits
+  Captain of justCatTheFish CTF team (previously captain of Just Hit the Core)
+  Maintainer of Pwndbg – a plugin for GDB and LLDB for low level debugging, security research, reverse engineering and exploit development (Sponsor us!)
+  I am a reviewer of Paged Out!, a free magazine about programming, security, hacking, computers, electronics, demoscene and other similar topics.
+  I am a reviewer of Programista, a Polish programming magazine.
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
 - [Glenn K Lockwood](https://blog.glennklockwood.com/p/blog-page.html)
 - [github blog](https://github.blog/)
