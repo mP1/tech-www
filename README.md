@@ -254,4 +254,5 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Zig
 
 - [Lukáš Lalinský](https://lalinsky.com/)
+- [Jonathan Marler](https://marler8997.github.io/blog/)
 - [Zig](https://ziglang.org/devlog)
