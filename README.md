@@ -194,6 +194,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [NextJS](https://nextjs.org/blog) The latest Next.js news
 
+# Jujitsu
+
+- [Juju-chu! Blog](https://juju-chu.com/blog)
+
 # Linux
 
 - [Greg Kroah-Hartman](http://kroah.com/log/) Linux Kernel Monkey Log
