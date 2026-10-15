@@ -158,6 +158,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [D2B](https://d2b.dev/blog)
 - [Digital Mill](https://digitalmill.net/blog/) Digital Mill - Transforming raw practices into automated good processes
 
+# Futhark lang
+
+- [Futhark developer blog](https://futhark-lang.org/blog.html) The Futhark Programming Language
+
 # Games
 
 - [Alan Zucconi](https://www.alanzucconi.com) Game Development, Shader Coding & Artificial Intelligence
