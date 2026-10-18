@@ -102,8 +102,9 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Colin Leroy-Mira’s](https://www.colino.net/wordpress/) Welcome on Colin Leroy-Mira’s personal website. Retrocomputing I have started experimenting with Apple II hardware projects, and have made a daisy-chainable Smartport “hard drive”. People in the community expressed interest, so I’ve opened a web shop where people can get one in their preferred form factor:
 - [Leaded Solder](https://www.leadedsolder.com/) Mostly about old computers like IIGS, 68k Macs etc
 
-# C++
+# C/C++
 - [Abseil Blog](https://abseil.io/blog/) Abseil is an open source collection of C++ libraries drawn from the most fundamental pieces of Google’s internal codebase.
+- [David's Blog](https://www.davidpriver.com/)
 - [Giovanni Dicanio's Blog](https://giodicanio.com/) Giovanni Dicanio's Programming Corner on the Internet
 - [Sandor Drago's blog](https://www.sandordargo.com/) Sandor Dargo's Blog On C++, software development and books
 
