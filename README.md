@@ -14,6 +14,7 @@ Blogs, news, mostly about technology mostly computing
 - [Big o' Mess Wires](https://www.bigmessowires.com/)
 - [buttondown](https://buttondown.com/blog) Buttondown's engineers, writers, and biggest fans write about the whole thing: engineering challenges, useful tips and tricks, new features, and more.
 - [Chris Lewis](https://blog.chrislewis.au/)
+- [control-codes](https://control-codes.page/)
 - [Cryptiana](https://cryptiana.blogspot.com/) Cryptiana Discussion Forum Call for contribution to my historical cryptography website: Cryptiana.
 - [Dampfkraft](https://www.dampfkraft.com/) Howdy! I'm Paul McCann, and this is my home on the Internet. I maintain a number of tools related to Japanese text processing, and I'm working on a book about Japanese NLP. I also help run Tokyo Indies, the largest regular game developer meetup in Tokyo.
 - [Daniel Lemire's blog](https://lemire.me/blog/) Daniel Lemire is a software performance expert. He ranks among the top 2% of scientists globally (Stanford/Elsevier 2025) and is one of GitHub's top 1000 most followed developers.
