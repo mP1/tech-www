@@ -9,6 +9,7 @@ Blogs, news, mostly about technology mostly computing
 - [Anton](https://antonz.org) Hi, I'm Anton. I work on open source and write interactive technical guides.
 - [Aras Pranckevičius](https://aras-p.info/blog/) Hi! I am Aras Pranckevičius. I can read and write computer code.
 - [Arhuman's Blog](https://blog.assad.fr/en/post/) Arhuman's Blog Arnaud Assad, Systems Alchemist at Doolta
+- [Artem Golubin](https://rushter.com/blog/)
 - [Arun Venkatesan](https://arun.is/blog/) Design Engineer working on something new in the SF Bay Area. Recently, I redesigned and redeveloped the dashboard and design system at Miter. I previously co-founded Carrot Fertility.
 - [Big o' Mess Wires](https://www.bigmessowires.com/)
 - [buttondown](https://buttondown.com/blog) Buttondown's engineers, writers, and biggest fans write about the whole thing: engineering challenges, useful tips and tricks, new features, and more.
