@@ -45,6 +45,7 @@ Blogs, news, mostly about technology mostly computing
   High quality leet code solutions in Java, Python, C++, and Rust.
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
+- [MaskRay](https://maskray.me/blog/archives)
 - [Microsoft 365 Insider Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/microsoft365insiderblog) Welcome to the Microsoft 365 Insider blog! Get updates and insights about Microsoft 365 features as they release to preview channels on Windows, the web, Mac, iOS, and Android.
 - [movq.de](https://movq.de/blog/)
 - [MTU Ninja - Vincent Bernat](https://vincent.bernat.ch/en/blog)
