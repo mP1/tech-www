@@ -191,6 +191,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Java
 
 - [Micronaut Blog](https://micronaut.io/blog/)
+- [Neil Madden](https://neilmadden.blog/)
 - [Spring blog](https://spring.io/blog)
 - [Stephen Colebourne's](https://blog.joda.org/) Stephen Colebourne's blog - Thoughts and Musings on the world of Java and beyond
 
