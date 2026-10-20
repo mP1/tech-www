@@ -61,6 +61,8 @@ Blogs, news, mostly about technology mostly computing
 - [Quansight Labs](https://labs.quansight.org/blog)
 - [raymii](https://raymii.org/s/) I'm Remy, a developer from The Netherlands with a focus on C++, C, some C#, Linux and embedded systems. I currently work on a C++ and Qt stack running on Yocto Linux. It controls hardware, runs the UI and has a few utilities for IoT connectivity and configuration. Technologies I'm fluid in include C, C# & C++, Windows (MFC/Win32), .NET (Core, Xaml, Framework and C++/CLI), Flash, Qt, Ansible, Bash & PowerShell. I was Linux and UNIX sysadmin for over 10 years before I got into development.
 - [ratfactor](https://ratfactor.com/) I'm Dave Gauer. Welcome to my personal website.
+- [Redhat developer blog](https://developers.redhat.com/blog) Here's our most recent blog content. Explore our featured monthly resource as well as our most
+  recently published items. Don't miss the chance to learn more about our contributors.
 - [Remy Wang](https://remy.wang/blog/) I'm an Assistant Professor at UCLA working on databases and programming languages. I direct the Relational Programming Lab (RePL) where I work with many brilliant students. If you want to join my lab, please read this before contacting me.
 - [Roy Fish](https://royfish.dev/) Welcome, Grumpy Raccoon
   This is my little kanciapa on the internet.
