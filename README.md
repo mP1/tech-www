@@ -203,6 +203,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Jooq](https://blog.jooq.org/category/java/) Java, SQL and jOOQ
 - [Micronaut Blog](https://micronaut.io/blog/)
 - [Neil Madden](https://neilmadden.blog/)
+- [nicolai parlog](https://nipafx.dev/) You. Me. Java.
+  Nice of you to stop by. I'm nipafx, but you can call me Nicolai 😉, a Java enthusiast with a passion for learning and sharing, online and offline. If you want to sharpen your Java skills, you've come to the right place.
 - [Spring blog](https://spring.io/blog)
 - [Stephen Colebourne's](https://blog.joda.org/) Stephen Colebourne's blog - Thoughts and Musings on the world of Java and beyond
 - [Vlad Mihalcea](https://vladmihalcea.com/) My name is Vlad Mihalcea, and I’m a Java Champion. I wrote the High-Performance Java Persistence book, which became one of the best-selling Java books on Amazon.
