@@ -205,6 +205,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Neil Madden](https://neilmadden.blog/)
 - [Spring blog](https://spring.io/blog)
 - [Stephen Colebourne's](https://blog.joda.org/) Stephen Colebourne's blog - Thoughts and Musings on the world of Java and beyond
+- [Vlad Mihalcea](https://vladmihalcea.com/) My name is Vlad Mihalcea, and I’m a Java Champion. I wrote the High-Performance Java Persistence book, which became one of the best-selling Java books on Amazon.
+  I'm currently developing the amazing Hypersistence Optimizer, and in my free time, I develop various open-source projects (e.g. Hypersistence Utils and FlexyPool) and answer questions on StackOverflow.
 
 # Javascript
 
