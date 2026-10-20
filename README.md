@@ -232,6 +232,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [Rescript](https://rescript-lang.org/blog)
 
+# Python
+
+- [Pyronaut Blog](https://pyronaut.io/blog/) Read Pyronaut project news, release announcements, technical articles, and community updates.
+
 # Retro
 
 - [BehindTheCode.ca](https://www.behindthecode.ca/)
