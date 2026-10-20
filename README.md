@@ -224,6 +224,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [Askdown](https://askdown.dev/) A plain-text format for forms.
 
+# Playdate
+
+- [Playdate Developer Forum](https://devforum.play.date/) Welcome to Playdate Developer Forum!
+
 # Programming Languages
 
 - [Rescript](https://rescript-lang.org/blog)
