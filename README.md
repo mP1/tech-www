@@ -46,6 +46,7 @@ Blogs, news, mostly about technology mostly computing
 - [JZLeetCode](https://jzleetcode.github.io/posts/) Read more at: https://jzleetcode.github.io/
   High quality leet code solutions in Java, Python, C++, and Rust.
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
+- [Marc Paul](https://marcpaul.io/logs/) Replication, HA, and CDC across MySQL and SQL Server; Spark and Iceberg data platforms on self-built Kubernetes.
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [MaskRay](https://maskray.me/blog/archives)
 - [Microsoft 365 Insider Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/microsoft365insiderblog) Welcome to the Microsoft 365 Insider blog! Get updates and insights about Microsoft 365 features as they release to preview channels on Windows, the web, Mac, iOS, and Android.
