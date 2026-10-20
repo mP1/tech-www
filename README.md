@@ -198,6 +198,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [IBM Developer - java](https://developer.ibm.com/languages/java/) Java
   Develop modern applications with the open Java ecosystem.
+- [Jooq](https://blog.jooq.org/category/java/) Java, SQL and jOOQ
 - [Micronaut Blog](https://micronaut.io/blog/)
 - [Neil Madden](https://neilmadden.blog/)
 - [Spring blog](https://spring.io/blog)
