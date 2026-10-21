@@ -295,6 +295,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Ahmad Shadeed](https://buttondown.com/ishadeed/archive/) Hello, this is Ahmad Shadeed. I work at the intersection of design and code. I usually publish CSS articles on ishadeed.com, defensivecss.dev, and rtlstyling.com.
 - [Base31](https://www.base31.org/blog) Notes on the interesting internet. Guides, field notes, and practical ideas for finding, building, and sharing better corners of the web. New articles cover independent websites, useful tools, static publishing, and the people making the web more personal.
 - [Guillermo Rauch](https://rauchg.com/)
+- [Josh W Comeau](https://www.joshwcomeau.com/) Hi there! I'm Josh.
+  I started building on the web in 2007 and never stopped.
+  I’ve worked in senior engineering positions at organizations like Gatsby (acq. Netlify), DigitalOcean, and Khan Academy. I’ve also taught web development fundamentals at Concordia University.
+  These days, I'm a solo indie hacker focused on empowering up-and-coming software developers.
 - [Material 3](https://m3.material.io/blog/) Start building with Material 3 Expressive
 - [Svelte](https://svelte.dev/blog)
 - [Lea Verou, PhD](https://lea.verou.me/blog/) Hi, I’m Lea! 👋🏼 I make things for making things. I’m an award-winning web standards leader, and have designed several web technologies implemented in your browser. I have launched open source dev tools used by millions, and consult on my areas of expertise. I hold a PhD in usability & innovation from MIT — but chose product over research.
