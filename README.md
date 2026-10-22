@@ -140,6 +140,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Azure SQL](https://devblogs.microsoft.com/azure-sql/)
 - [DuckDB](https://duckdb.org/news/)
 - [MOTHERDUCK BLOG](https://motherduck.com/blog/) DuckDB, MotherDuck, Data Engineering and Data Analytics
+- [ParadeDB](https://www.paradedb.com/blog) Latest Posts
+  Stay up to date with the latest news and updates from ParadeDB.
 - [Planetscale](https://planetscale.com/blog) The world’s fastest and most scalable cloud databases
 - [Pinecone](https://www.pinecone.io/blog/)
 - [QuestDB](https://questdb.com/blog/) The latest from QuestDB
