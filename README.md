@@ -46,6 +46,7 @@ Blogs, news, mostly about technology mostly computing
 - [JZLeetCode](https://jzleetcode.github.io/posts/) Read more at: https://jzleetcode.github.io/
   High quality leet code solutions in Java, Python, C++, and Rust.
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
+- [L](https://tia.mat.br/posts/)
 - [Marc Paul](https://marcpaul.io/logs/) Replication, HA, and CDC across MySQL and SQL Server; Spark and Iceberg data platforms on self-built Kubernetes.
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [MaskRay](https://maskray.me/blog/archives)
