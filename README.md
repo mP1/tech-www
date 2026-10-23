@@ -278,6 +278,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Security
 - [0patch blog](https://0patch.com/blog/)
+- [Aikido](https://www.aikido.dev/blog)
 - [bartosz's blog](https://blog.ikaes.de/) welcome to my blog
   here i write about things which i find interesting
   - rootme
