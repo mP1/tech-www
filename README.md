@@ -205,6 +205,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Java
 
+- [Gunnar Morling](https://www.morling.dev/) Random Musings on All Things Software Engineering
 - [IBM Developer - java](https://developer.ibm.com/languages/java/) Java
   Develop modern applications with the open Java ecosystem.
 - [javaspecialists](https://www.javaspecialists.eu/) Helping Make Better Java and Making Java Better...
