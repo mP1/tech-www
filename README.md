@@ -35,6 +35,7 @@ Blogs, news, mostly about technology mostly computing
   I am a reviewer of Paged Out!, a free magazine about programming, security, hacking, computers, electronics, demoscene and other similar topics.
   I am a reviewer of Programista, a Polish programming magazine.
 - [Elias Ebner](https://eliasebner.com/blog/) I'm a software developer and freelancer, mainly focused on web development, but for fun I also love exploring other areas of software. I love low-level languages like C and I am a big fan of Rust, even though I unfortunately don't get the chance to use it much. :
+- [Farid Zakaria](https://fzakaria.com/)
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
 - [Glenn K Lockwood](https://blog.glennklockwood.com/p/blog-page.html)
 - [github blog](https://github.blog/)
