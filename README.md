@@ -277,6 +277,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
   Our goal is to be stewards of the language and ecosystem, both within Shopify and within the open-source community. We want to evolve Ruby and Rails to meet our needs, to share our approach and code with the Ruby community, to ensure Shopify is using these tools well, and to represent Shopify in that community.
 - [RubyOnRails](https://rubyonrails.org/)
 - [This week in Rails](https://world.hey.com/this.week.in.rails) Your weekly inside scoop of interesting commits, pull requests and more from Rails.
+- [Yaroslav Markin](https://yaroslav.io/) Engineer, consultant, fractional CTO
+  Currently: Ruby and Rails Infrastructure team at Shopify
 
 # Rust
 
