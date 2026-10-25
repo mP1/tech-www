@@ -68,6 +68,7 @@ Blogs, news, mostly about technology mostly computing
 - [Redhat developer blog](https://developers.redhat.com/blog) Here's our most recent blog content. Explore our featured monthly resource as well as our most
   recently published items. Don't miss the chance to learn more about our contributors.
 - [Remy Wang](https://remy.wang/blog/) I'm an Assistant Professor at UCLA working on databases and programming languages. I direct the Relational Programming Lab (RePL) where I work with many brilliant students. If you want to join my lab, please read this before contacting me.
+- [Robert Alexander](https://alexsci.com/blog/) Built on Shards of Silicon
 - [Roy Fish](https://royfish.dev/) Welcome, Grumpy Raccoon
   This is my little kanciapa on the internet.
 - [The rye blog](https://fgiesen.wordpress.com/) This is the blog of Fabian “ryg” Giesen. I work at RAD Game Tools in Kirkland/WA as a programmer. I also used to be active in the demoscene group Farbrausch and have written some useful tools and other pieces of code, most of which are available on my homepage.
