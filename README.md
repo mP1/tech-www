@@ -104,6 +104,7 @@ Blogs, news, mostly about technology mostly computing
   Prior to becoming an independent open source developer, Simon was an engineering director at Eventbrite. Simon joined Eventbrite through their acquisition of Lanyrd, a Y Combinator funded company he co-founded in 2010.
   He is a co-creator of the Django Web Framework, and has been blogging about web development and programming since 2002 at simonwillison.net
 - [thinkrail](https://thinkrail.ai/blog/) Updates, tutorials, and insights from the ThinkRail team.
+- [v7labs](https://www.v7labs.com/blog) V7 Blog: Expert Articles on AI
 
 # Apple blogs
 Not exclusively Apple/IOS/IPad but these have a focus.
