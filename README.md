@@ -39,6 +39,7 @@ Blogs, news, mostly about technology mostly computing
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
 - [Glenn K Lockwood](https://blog.glennklockwood.com/p/blog-page.html)
 - [github blog](https://github.blog/)
+- [Gregory's Blog](https://www.gregoryalexander.com/blog/)
 - [Halide Compression](https://halide.cx/blog/) Research notes, encoder deep dives, and interviews from the world of image and video compression.
 - [Iain Cambridge](https://iain.rocks/) This is the personal site of Iain Cambridge, a software developer based in Berlin. Who in his spare time works on the Open Source project Parthenon and the Source Available billing project BillaBear.
 - [Jardo](https://jardo.dev/blog) Hey, I'm Jared, but you can call me Jardo. I’m an experienced software developer, consultant, open-source maintainer, surfer, and metal head. I work with organizations all over the world to help them learn from the past and make the most of their technology.
