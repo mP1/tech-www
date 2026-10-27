@@ -319,6 +319,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Ahmad Shadeed](https://buttondown.com/ishadeed/archive/) Hello, this is Ahmad Shadeed. I work at the intersection of design and code. I usually publish CSS articles on ishadeed.com, defensivecss.dev, and rtlstyling.com.
 - [Base31](https://www.base31.org/blog) Notes on the interesting internet. Guides, field notes, and practical ideas for finding, building, and sharing better corners of the web. New articles cover independent websites, useful tools, static publishing, and the people making the web more personal.
 - [Chrome for developers](https://developer.chrome.com/blog) Our latest news, updates, and stories for developers
+- [CSS-Tricks](https://css-tricks.com/category/articles/)
 - [Guillermo Rauch](https://rauchg.com/)
 - [Josh W Comeau](https://www.joshwcomeau.com/) Hi there! I'm Josh.
   I started building on the web in 2007 and never stopped.
