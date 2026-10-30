@@ -50,6 +50,8 @@ Blogs, news, mostly about technology mostly computing
   High quality leet code solutions in Java, Python, C++, and Rust.
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [L](https://tia.mat.br/posts/)
+- [Leon Becker's Blog ](https://blog.leonbecker.de/) Leon Becker's Blog 
+  Notes on manageable but capable software.
 - [Marc Paul](https://marcpaul.io/logs/) Replication, HA, and CDC across MySQL and SQL Server; Spark and Iceberg data platforms on self-built Kubernetes.
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [MaskRay](https://maskray.me/blog/archives)
