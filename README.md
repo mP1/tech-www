@@ -82,6 +82,7 @@ Blogs, news, mostly about technology mostly computing
 - [simon frey](https://simon-frey.com/blog/)
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
 - [t3](https://t3.at/)
+- [Ted Kaminski](https://www.tedinski.com/archive/)
 - [Unsung](https://unsung.aresluna.org/) Software craft and quality. Posts by Marcin Wichary
 - [UTF-8000](https://utf-8000.jb2170.com/)
 - [Vale Rocks](https://vale.rocks/) These are long-form, structured articles. They're written to be evergreen and are revised as necessary to keep them up-to-date. Don't let an old initial publication date scare you off.
