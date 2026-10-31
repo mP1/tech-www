@@ -36,6 +36,7 @@ Blogs, news, mostly about technology mostly computing
   I am a reviewer of Programista, a Polish programming magazine.
 - [Elias Ebner](https://eliasebner.com/blog/) I'm a software developer and freelancer, mainly focused on web development, but for fun I also love exploring other areas of software. I love low-level languages like C and I am a big fan of Rust, even though I unfortunately don't get the chance to use it much. :
 - [Farid Zakaria](https://fzakaria.com/)
+- [Firezone Blog](https://www.firezone.dev/blog) Announcements, how-tos, and more from the Firezone team.
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
 - [Glenn K Lockwood](https://blog.glennklockwood.com/p/blog-page.html)
 - [github blog](https://github.blog/)
