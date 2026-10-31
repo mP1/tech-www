@@ -85,6 +85,8 @@ Blogs, news, mostly about technology mostly computing
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
 - [t3](https://t3.at/)
 - [Ted Kaminski](https://www.tedinski.com/archive/)
+- [Trystan Sarrade](https://trystan-sarrade.com/articles/) Articles & Guides
+  Learn here how to build AI products, ship autonomous agents, and automate your teams' workflows — without losing sight of solid engineering. 4 articles, 5 guides.
 - [Unsung](https://unsung.aresluna.org/) Software craft and quality. Posts by Marcin Wichary
 - [UTF-8000](https://utf-8000.jb2170.com/)
 - [Vale Rocks](https://vale.rocks/) These are long-form, structured articles. They're written to be evergreen and are revised as necessary to keep them up-to-date. Don't let an old initial publication date scare you off.
