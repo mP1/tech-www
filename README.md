@@ -236,6 +236,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [NextJS](https://nextjs.org/blog) The latest Next.js news
 
+# JSON
+
+- [Sourcemeta](https://www.sourcemeta.com/blog/)
+
 # Jujitsu
 
 - [Juju-chu! Blog](https://juju-chu.com/blog)
