@@ -8,6 +8,7 @@ Blogs, news, mostly about technology mostly computing
 - [Adam Sawicki](https://asawicki.info/)
 - [Anton](https://antonz.org) Hi, I'm Anton. I work on open source and write interactive technical guides.
 - [Aras Pranckevičius](https://aras-p.info/blog/) Hi! I am Aras Pranckevičius. I can read and write computer code.
+- [Aresluna](https://aresluna.org/) Aresluna Marcin Wichary Designer/Writer/Typographer
 - [Arhuman's Blog](https://blog.assad.fr/en/post/) Arhuman's Blog Arnaud Assad, Systems Alchemist at Doolta
 - [Artem Golubin](https://rushter.com/blog/)
 - [Arun Venkatesan](https://arun.is/blog/) Design Engineer working on something new in the SF Bay Area. Recently, I redesigned and redeveloped the dashboard and design system at Miter. I previously co-founded Carrot Fertility.
