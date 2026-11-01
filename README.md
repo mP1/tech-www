@@ -264,6 +264,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [Askdown](https://askdown.dev/) A plain-text format for forms.
 
+# Microsoft
+
+- [Microsoft Developer Blogs](https://devblogs.microsoft.com/) Get the latest information, insights, and news from Microsoft.
+
 # Networking
 
 - [IP Trust](https://iptrust.co/blog) Notes from the IP Trust team on IP geolocation, data sourcing, and how we build our databases.
