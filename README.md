@@ -77,6 +77,9 @@ Blogs, news, mostly about technology mostly computing
 - [Robert Alexander](https://alexsci.com/blog/) Built on Shards of Silicon
 - [Roy Fish](https://royfish.dev/) Welcome, Grumpy Raccoon
   This is my little kanciapa on the internet.
+- [thestateofinahaze](https://thestateofinahaze.net/) I like programming and tinkering. I love weird experimental shit, the kind of creativity that pushes boundaries. I want to do stuff that’s never been done, I want to see stuff that’s never been done.
+  Right now I’m work on web services & developer tooling at my day job. After work I’ve been getting into lower level languages and systems programming. Zig is my love language, though I’m sure your favorite language is great too.
+  Absolutely zero AI/LLM involved in the creation of this site, or anything on it.
 - [The rye blog](https://fgiesen.wordpress.com/) This is the blog of Fabian “ryg” Giesen. I work at RAD Game Tools in Kirkland/WA as a programmer. I also used to be active in the demoscene group Farbrausch and have written some useful tools and other pieces of code, most of which are available on my homepage.
 - [Scott Jenson](https://jenson.org/) Scott Jenson has been doing user interface design and strategic planning for over 35 years. He worked at Apple on System 7, Newton, and the Apple Human Interface guidelines. He was UX director of Symbian, VP of product design for Cognima, managed mobile UX for Google and was a creative director at frog design in San Francisco. Scott returned to Google in 2013 to lead the Physical Web project and research future Android UX concepts. In 2024, Scott left Google to explore life outside. As a battle-scarred veteran of the software industry, Scott has shipped a consumer spreadsheet, been a part of 2 Mac OS releases, 5 Newton product cycles, 4 commercial website revisions, designed 3 different mobile phone UIs, sworn at innumerable mobile browsers, and has over 35 patents.
 - [Sebsite](https://sebsite.pw)
