@@ -276,6 +276,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [Playdate Developer Forum](https://devforum.play.date/) Welcome to Playdate Developer Forum!
 
+# Products
+
+- [itextpdf](https://itextpdf.com/blog)
+
 # Programming Languages
 
 - [Rescript](https://rescript-lang.org/blog)
