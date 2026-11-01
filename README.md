@@ -50,6 +50,7 @@ Blogs, news, mostly about technology mostly computing
 - [Julik Tarkhanov](https://blog.julik.nl/)
 - [JZLeetCode](https://jzleetcode.github.io/posts/) Read more at: https://jzleetcode.github.io/
   High quality leet code solutions in Java, Python, C++, and Rust.
+- [karpathy](https://karpathy.bearblog.dev/blog/)
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [L](https://tia.mat.br/posts/)
 - [Leon Becker's Blog ](https://blog.leonbecker.de/) Leon Becker's Blog 
