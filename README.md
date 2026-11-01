@@ -58,7 +58,6 @@ Blogs, news, mostly about technology mostly computing
 - [Marc Paul](https://marcpaul.io/logs/) Replication, HA, and CDC across MySQL and SQL Server; Spark and Iceberg data platforms on self-built Kubernetes.
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [MaskRay](https://maskray.me/blog/archives)
-- [Microsoft 365 Insider Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/microsoft365insiderblog) Welcome to the Microsoft 365 Insider blog! Get updates and insights about Microsoft 365 features as they release to preview channels on Windows, the web, Mac, iOS, and Android.
 - [movq.de](https://movq.de/blog/)
 - [MTU Ninja - Vincent Bernat](https://vincent.bernat.ch/en/blog)
 - [Nolan Lawson](https://nolanlawson.com/) Read the Tea Leaves
@@ -266,6 +265,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Microsoft
 
+- [Microsoft 365 Insider Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/microsoft365insiderblog) Welcome to the Microsoft 365 Insider blog! Get updates and insights about Microsoft 365 features as they release to preview channels on Windows, the web, Mac, iOS, and Android.
 - [Microsoft Developer Blogs](https://devblogs.microsoft.com/) Get the latest information, insights, and news from Microsoft.
 
 # Networking
