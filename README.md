@@ -165,6 +165,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Planetscale](https://planetscale.com/blog) The world’s fastest and most scalable cloud databases
 - [Pinecone](https://www.pinecone.io/blog/)
 - [QuestDB](https://questdb.com/blog/) The latest from QuestDB
+- [Robert Haas](https://rhaas.blogspot.com/) Sr. Staff Software Engineer @ Databricks, PostgreSQL Major Contributor and Committer
 - [rynr.dev](https://rynr.dev/blog/)
 - [Supabase](https://supabase.com/blog)
 - [TidesDB](https://tidesdb.com/blog/) Benchmarks, engineering deep-dives, and updates from the TidesDB team.
