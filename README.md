@@ -6,6 +6,8 @@ Blogs, news, mostly about technology mostly computing
 - [0xax](https://0xax.dev/) Hi, I'm Alex - online I'm better known as 0xAX. I'm fascinated by how computers actually work beneath underneath the abstractions we build on top of them: how a machine boots, how the Linux kernel manages memory and processes, and how programs actually run. Systems Inside is where I write it all down.
 - [Abstract Heresies](https://funcall.blogspot.com/) Unorthodox opinions on computer science and programming.
 - [Adam Sawicki](https://asawicki.info/)
+- [Alan Grow](https://alangrow.com/) I'm Alan Grow, a software developer and startup founder. With my co-founder Pliny, I run Endcrawl, the design software many films & TV shows use to make end credits.
+  In a past life I co-founded iLuminate, a finalist on America's Got Talent Season 6. I've also written code for Microsoft, Bloomberg, Siemens, ROLI, Betaworks company Blend.io, and various startups.
 - [Anton](https://antonz.org) Hi, I'm Anton. I work on open source and write interactive technical guides.
 - [Aras Pranckevičius](https://aras-p.info/blog/) Hi! I am Aras Pranckevičius. I can read and write computer code.
 - [Aresluna](https://aresluna.org/) Aresluna Marcin Wichary Designer/Writer/Typographer
