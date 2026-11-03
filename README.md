@@ -95,6 +95,7 @@ Blogs, news, mostly about technology mostly computing
 - [Vale Rocks](https://vale.rocks/) These are long-form, structured articles. They're written to be evergreen and are revised as necessary to keep them up-to-date. Don't let an old initial publication date scare you off.
 - [Victor Zverovich](https://vitaut.net/)
 - [The VictoriaMetrics Observability Blog](https://victoriametrics.com/blog/)
+- [Vinipsmaker](https://vinipsmaker.github.io/blog/article/)
 - [Vivien Henz](https://www.vivienhenz.com/)
 - [https://wasmer.io/](https://wasmer.io/posts) Universal compute. Built for AI
   Run your apps in lightweight sandboxes: locally or on our cloud.
