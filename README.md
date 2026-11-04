@@ -67,6 +67,7 @@ Blogs, news, mostly about technology mostly computing
 - [Nolan Lawson](https://nolanlawson.com/) Read the Tea Leaves
   Software and other dark arts, by Nolan Lawson
 - [OpenStreetMap blog](https://blog.openstreetmap.org/)
+- [pan](https://napcakes.nekoweb.org/posts/)
 - [Paul Graham](https://paulgraham.com/index.html)
 - [Pikuma](https://pikuma.com/blog) My name is Gustavo Pezzi, and I'm the founder of this education platform. I have spent many years working as a university lecturer in the United Kingdom, teaching computer science & mathematics.
 - [printer_scanner](https://earthly-delights.net/)
