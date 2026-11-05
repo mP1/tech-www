@@ -350,6 +350,9 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
 - [D2B](https://d2b.dev/blog)
 - [Digital Mill](https://digitalmill.net/blog/) Digital Mill - Transforming raw practices into automated good processes
+- [Grist](https://www.getgrist.com/blog/) Turn the spreadsheets running your business into secure applications
+  No-code apps, self-hosted or fully managed. Cell-level access rules control who sees what,
+  including the AI assistant.
 
 # Web
 - [Andros Fenollosa](https://en.andros.dev/blog/)
