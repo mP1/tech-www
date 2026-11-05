@@ -191,13 +191,6 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [elm](https://elm-lang.org/)
 
-# Excel
-
-- [Aspose](https://blog.aspose.com/)
-- [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
-- [D2B](https://d2b.dev/blog)
-- [Digital Mill](https://digitalmill.net/blog/) Digital Mill - Transforming raw practices into automated good processes
-
 # Futhark lang
 
 - [Futhark developer blog](https://futhark-lang.org/blog.html) The Futhark Programming Language
@@ -350,6 +343,13 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [East River Source Control blog](https://ersc.io/blog) Source control that scales.
   ERSC is creating the building blocks for human ↔ machine collaboration.
+
+# Spreadsheets
+
+- [Aspose](https://blog.aspose.com/)
+- [Austin Z. Henley](https://austinhenley.com/blog.html) Principal Applied Scientist Excel Agent Science Team Microsoft
+- [D2B](https://d2b.dev/blog)
+- [Digital Mill](https://digitalmill.net/blog/) Digital Mill - Transforming raw practices into automated good processes
 
 # Web
 - [Andros Fenollosa](https://en.andros.dev/blog/)
