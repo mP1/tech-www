@@ -321,6 +321,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [Rust Blog](https://blog.rust-lang.org/)
 
+# Search
+
+- [Kagi](https://blog.kagi.com/) Tales from Kagi
+
 # Security
 - [0patch blog](https://0patch.com/blog/)
 - [Aikido](https://www.aikido.dev/blog)
