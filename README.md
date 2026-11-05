@@ -82,6 +82,7 @@ Blogs, news, mostly about technology mostly computing
 - [Robert Alexander](https://alexsci.com/blog/) Built on Shards of Silicon
 - [Roy Fish](https://royfish.dev/) Welcome, Grumpy Raccoon
   This is my little kanciapa on the internet.
+- [Sadok Cervantes](https://sadok.mx/blog/)
 - [thestateofinahaze](https://thestateofinahaze.net/) I like programming and tinkering. I love weird experimental shit, the kind of creativity that pushes boundaries. I want to do stuff that’s never been done, I want to see stuff that’s never been done.
   Right now I’m work on web services & developer tooling at my day job. After work I’ve been getting into lower level languages and systems programming. Zig is my love language, though I’m sure your favorite language is great too.
   Absolutely zero AI/LLM involved in the creation of this site, or anything on it.
