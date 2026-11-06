@@ -287,6 +287,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Products
 
 - [itextpdf](https://itextpdf.com/blog)
+- [Stripe](https://stripe.dev/blog)
 - [XPipe](https://xpipe.io/blog) Your entire server infrastructure at your fingertips
   Manage all your servers from your local desktop. No remote setup required.
 
