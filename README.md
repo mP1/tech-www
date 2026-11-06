@@ -68,6 +68,7 @@ Blogs, news, mostly about technology mostly computing
 - [MTU Ninja - Vincent Bernat](https://vincent.bernat.ch/en/blog)
 - [Nolan Lawson](https://nolanlawson.com/) Read the Tea Leaves
   Software and other dark arts, by Nolan Lawson
+- [null program Chris Wellons](https://nullprogram.com/)
 - [OpenStreetMap blog](https://blog.openstreetmap.org/)
 - [pan](https://napcakes.nekoweb.org/posts/)
 - [Paul Graham](https://paulgraham.com/index.html)
