@@ -257,6 +257,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Linux
 
+- [acid vegas](https://acid.vegas/blog/)
 - [Greg Kroah-Hartman](http://kroah.com/log/) Linux Kernel Monkey Log
   Random bits from Greg Kroah-Hartman
 - [ItsFOSS](https://itsfoss.com/) With the FOSS Weekly Newsletter, you learn useful Linux tips, discover applications, explore new distros and stay updated with the latest from Linux world
