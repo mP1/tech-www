@@ -174,6 +174,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
   Stay up to date with the latest news and updates from ParadeDB.
 - [Planetscale](https://planetscale.com/blog) The world’s fastest and most scalable cloud databases
 - [Pinecone](https://www.pinecone.io/blog/)
+- [pivot](https://pivotlake.io/blog/) Real-time analytics database, built on open data formats.
+  Pivot brings the speed and concurrency the AI era demands to the lakehouse. Run low-latency, high-concurrency queries on a single architecture that unifies real-time analytics and lakehouse workloads.
 - [QuestDB](https://questdb.com/blog/) The latest from QuestDB
 - [Robert Haas](https://rhaas.blogspot.com/) Sr. Staff Software Engineer @ Databricks, PostgreSQL Major Contributor and Committer
 - [rynr.dev](https://rynr.dev/blog/)
