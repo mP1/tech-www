@@ -293,6 +293,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Aha](https://www.aha.io/engineering)
 - [itextpdf](https://itextpdf.com/blog)
 - [Stripe](https://stripe.dev/blog)
+- [unleash](https://www.getunleash.io/blog) The AI kill switch that you control end to end.
+  Unleash is the FeatureOps platform enterprises use to control how software behaves in production. Release, experiment, and kill anything AI ships, in real time and without redeploys. Run it in our cloud or self-host it on your infrastructure. Built on the world’s largest open-source feature flag project.
 - [XPipe](https://xpipe.io/blog) Your entire server infrastructure at your fingertips
   Manage all your servers from your local desktop. No remote setup required.
 
