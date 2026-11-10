@@ -76,6 +76,8 @@ Blogs, news, mostly about technology mostly computing
 - [printer_scanner](https://earthly-delights.net/)
 - [purplesyringa](https://purplesyringa.moe/) Hi! 👋 I'm Alisa Sireneva (she/her), a software developer and blogger from Moscow. I specialize in performance optimization and systems programming. I also have experience with security, compression, and decentralized systems. My primary goal as a writer is to teach the concepts I regularly apply through accessible content. You might recognize me from bangers like:
 - [Quansight Labs](https://labs.quansight.org/blog)
+- [Ramsay Leung](https://ramsayleung.github.io/en/archives/) I’m Ramsay, a software engineer who makes a living by writing code. I have worked at Ant Group and WeChat, and currently works at AWS; see LinkedIn for details.
+  I advocate open source and a hands-on spirit. I have used Emacs and Linux for years and enjoys tinkering.
 - [raymii](https://raymii.org/s/) I'm Remy, a developer from The Netherlands with a focus on C++, C, some C#, Linux and embedded systems. I currently work on a C++ and Qt stack running on Yocto Linux. It controls hardware, runs the UI and has a few utilities for IoT connectivity and configuration. Technologies I'm fluid in include C, C# & C++, Windows (MFC/Win32), .NET (Core, Xaml, Framework and C++/CLI), Flash, Qt, Ansible, Bash & PowerShell. I was Linux and UNIX sysadmin for over 10 years before I got into development.
 - [ratfactor](https://ratfactor.com/) I'm Dave Gauer. Welcome to my personal website.
 - [Redhat developer blog](https://developers.redhat.com/blog) Here's our most recent blog content. Explore our featured monthly resource as well as our most
