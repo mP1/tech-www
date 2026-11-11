@@ -362,6 +362,11 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [East River Source Control blog](https://ersc.io/blog) Source control that scales.
   ERSC is creating the building blocks for human ↔ machine collaboration.
 
+# Software
+
+- [The Octri Blog](https://octri.dev/blog) News, guides & deep-dives
+  Product updates and practical writing on API documentation, SDKs, and developer experience.
+
 # Spreadsheets
 
 - [Aspose](https://blog.aspose.com/)
