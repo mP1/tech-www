@@ -65,6 +65,7 @@ Blogs, news, mostly about technology mostly computing
 - [Marc Paul](https://marcpaul.io/logs/) Replication, HA, and CDC across MySQL and SQL Server; Spark and Iceberg data platforms on self-built Kubernetes.
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [MaskRay](https://maskray.me/blog/archives)
+- [Maury Cyz](https://maurycyz.com/archive/)
 - [movq.de](https://movq.de/blog/)
 - [MTU Ninja - Vincent Bernat](https://vincent.bernat.ch/en/blog)
 - [Nolan Lawson](https://nolanlawson.com/) Read the Tea Leaves
