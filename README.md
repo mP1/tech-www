@@ -23,6 +23,7 @@ Blogs, news, mostly about technology mostly computing
 - [Daniel Lemire's blog](https://lemire.me/blog/) Daniel Lemire is a software performance expert. He ranks among the top 2% of scientists globally (Stanford/Elsevier 2025) and is one of GitHub's top 1000 most followed developers.
 - [Daniel Mangum](https://danielmangum.com/posts/) My name is Daniel Mangum and I am the Chief Technology Officer at Golioth, where I lead engineering efforts that span hardware, firmware, and cloud software. Previously, I was a principal software engineer at Upbound where I helped build Upbound Cloud, Upbound Marketplace, and the open source Crossplane project. Prior to Upbound, I worked as a counsultant on large-scale cloud deployments at Fortune 500 companies.  I have participated in multiple open source communities, including holding leadership positions in the Kubernetes project. I am equally passionate about hardware and software, and often find myself at the points where they intersect.
 - [David Bushell](https://dbushell.com/blog/)
+- [David Buchanan ♦ aka retr0id](https://www.da.vidbuchanan.co.uk/blog/)
 - [Denkstein](https://denkstein.github.io/)
 - [Desktop colors](https://desktopcolors.com/) Desktop background colors, by operating system
 - [Disconnected](https://disconnect3d.pl/) his blog contains my private/personal notes on random topics I found worth to write about.
