@@ -354,6 +354,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [becksec](https://beaksec.github.io/)
 - [CERT-EU](https://www.cert.europa.eu/blog) We were born in 2011. While we are administratively hosted within the Directorate-General for Digital Services of the European Commission, our nature is that of an inter-institutional provider, governed by the Interinstitutional Cybersecurity Board that is currently chaired by the European Parliament, and serving all the Union institutions, bodies, offices and agencies (Union entities), located in the continent and beyond.
 - [Elttam](https://www.elttam.com/resources) Research, experimentation, and continuous improvement are fundamental to how we operate at elttam. Our consultants spend a significant amount of time exploring new technologies, building tooling, analysing vulnerabilities, and turning interesting problems encountered in the field into deeper technical investigations.
+- [Garrett Stimpson](https://garrettstimpson.ca/topics/)
 - [gynvael.coldwind](https://gynvael.coldwind.pl/?blog=1&lang=en)
 - [PortSwigger Research - Pushing the boundaries of web security](https://portswigger.net/research)
 - [Seth Larson](https://sethmlarson.dev/) Hey there! My name is Seth Larson, and I am the Security Developer-in-Residence at the Python Software Foundation working to improve the security posture of the Python ecosystem. I enjoy blogging about software, security, and retro video-games. I maintain a few open source projects including urllib3 and truststore.
