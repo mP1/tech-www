@@ -73,6 +73,8 @@ Blogs, news, mostly about technology mostly computing
 - [null program Chris Wellons](https://nullprogram.com/)
 - [OpenStreetMap blog](https://blog.openstreetmap.org/)
 - [pan](https://napcakes.nekoweb.org/posts/)
+- [Paul Cochrane](https://peateasea.de/) Hi! I’m Paul Cochrane, an experienced, versatile software developer. For more information about my experience check out my LinkedIn and GitHub profiles.
+  Most recently, I’ve been involved in data processing, devops and backend system development using Python (with Django) and Perl. I’m also experienced in technologies such as Linux, bash, vim, LaTeX, and Git (among others!), and I’m not shy when it comes to learning new systems and technologies. In fact, since I’m a generalist, you can throw any problem at me and I’ll work out how to solve it in whatever language or tools as necessary.
 - [Paul Graham](https://paulgraham.com/index.html)
 - [Pikuma](https://pikuma.com/blog) My name is Gustavo Pezzi, and I'm the founder of this education platform. I have spent many years working as a university lecturer in the United Kingdom, teaching computer science & mathematics.
 - [printer_scanner](https://earthly-delights.net/)
