@@ -133,6 +133,8 @@ Blogs, news, mostly about technology mostly computing
 
 - [Anthrop\\c](https://www.anthropic.com/engineering) Engineering at Anthropic: Inside the team building reliable AI systems
 - [Ayman Nadeem](https://www.aymannadeem.com/) I’m the founder and CEO of Nuanced, a YC-backed company building an AI coding app that helps people understand the software they create.
+- [Cadenya](https://cadenya.com/handwritten) Get to know Cadenya
+  We’re developers who love to build. We set out to create a yes-code platform that makes building agents feel like the best parts of building software.
 - [Colin Breck](https://blog.colinbreck.com/) Essays on software, engineering, people, and teams.
 - [Comma AI](https://blog.comma.ai/)
 - [Cursor](https://cursor.com/blog)
