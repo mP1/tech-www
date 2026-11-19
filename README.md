@@ -373,6 +373,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [simonkoeck](https://simonkoeck.com/blog)
 - [Socket blog](https://socket.dev/blog) https://socket.dev/blog
 - [v12](https://v12.sh/blog/) Security research and engineering from V12. Disclosures, write-ups, and company news.
+- [Veria](https://verialabs.com/blog/) Blog - Research and news from the Veria team.
 - [watchtowr](https://labs.watchtowr.com/) This blog offers a glimpse into the original research behind the continuous, attacker-aligned engine that drives the watchTowr Platform.
 
 # Source control
