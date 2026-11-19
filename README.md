@@ -52,6 +52,7 @@ Blogs, news, mostly about technology mostly computing
 - [Gregory's Blog](https://www.gregoryalexander.com/blog/)
 - [Halide Compression](https://halide.cx/blog/) Research notes, encoder deep dives, and interviews from the world of image and video compression.
 - [Iain Cambridge](https://iain.rocks/) This is the personal site of Iain Cambridge, a software developer based in Berlin. Who in his spare time works on the Open Source project Parthenon and the Source Available billing project BillaBear.
+- [James Hague](https://prog21.dadgum.com/)
 - [Jardo](https://jardo.dev/blog) Hey, I'm Jared, but you can call me Jardo. I’m an experienced software developer, consultant, open-source maintainer, surfer, and metal head. I work with organizations all over the world to help them learn from the past and make the most of their technology.
 - [Joe’s Blog](https://jointhefreeworld.org/blog/)
 - [John Regehr](https://blog.regehr.org/) Embedded in Academia
