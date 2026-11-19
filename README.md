@@ -64,6 +64,7 @@ Blogs, news, mostly about technology mostly computing
 - [L](https://tia.mat.br/posts/)
 - [Leon Becker's Blog ](https://blog.leonbecker.de/) Leon Becker's Blog 
   Notes on manageable but capable software.
+- [Lucy's Save Room](https://lucypero.com/blog/)
 - [Lukáš Zapletal](https://lukas.zapletalovi.com/posts/)
 - [Marc Paul](https://marcpaul.io/logs/) Replication, HA, and CDC across MySQL and SQL Server; Spark and Iceberg data platforms on self-built Kubernetes.
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
