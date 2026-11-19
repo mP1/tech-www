@@ -47,6 +47,7 @@ Blogs, news, mostly about technology mostly computing
 - [Farid Zakaria](https://fzakaria.com/)
 - [Firezone Blog](https://www.firezone.dev/blog) Announcements, how-tos, and more from the Firezone team.
 - [Frank Denis random thoughts](https://00f.net/) Frank DENIS random thoughts.
+- [Gabor Koos](https://blog.gaborkoos.com/)
 - [Glenn K Lockwood](https://blog.glennklockwood.com/p/blog-page.html)
 - [github blog](https://github.blog/)
 - [Gregory's Blog](https://www.gregoryalexander.com/blog/)
