@@ -120,6 +120,8 @@ Blogs, news, mostly about technology mostly computing
 - [The VictoriaMetrics Observability Blog](https://victoriametrics.com/blog/)
 - [Vinipsmaker](https://vinipsmaker.github.io/blog/article/)
 - [Vivien Henz](https://www.vivienhenz.com/)
+- [Vladimir Keleshev](https://keleshev.com/) Hello, my name is Vladimir Keleshev and I am a software developer living and working just outside of Copenhagen. In the past, I have worked with embedded systems, safety-critical systems, compilers, and now in finance. Recently, I have published a book called…
+  Compiling to Assembly from Scratch
 - [https://wasmer.io/](https://wasmer.io/posts) Universal compute. Built for AI
   Run your apps in lightweight sandboxes: locally or on our cloud.
 - [Wikimedia](https://diff.wikimedia.org/) News from the Wikimedia movement
