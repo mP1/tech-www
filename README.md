@@ -27,6 +27,7 @@ Blogs, news, mostly about technology mostly computing
   Open source, networking and associated technology are primary interests of mine. And of course a lot I write about is curl related, because curl is a big part of my life, both on and outside work hours.
 - [David Bushell](https://dbushell.com/blog/)
 - [David Buchanan ♦ aka retr0id](https://www.da.vidbuchanan.co.uk/blog/)
+- [deadbeef](https://blog.dfb.sh/)
 - [Denkstein](https://denkstein.github.io/)
 - [Desktop colors](https://desktopcolors.com/) Desktop background colors, by operating system
 - [Disconnected](https://disconnect3d.pl/) his blog contains my private/personal notes on random topics I found worth to write about.
