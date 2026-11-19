@@ -156,6 +156,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Colin Leroy-Mira’s](https://www.colino.net/wordpress/) Welcome on Colin Leroy-Mira’s personal website. Retrocomputing I have started experimenting with Apple II hardware projects, and have made a daisy-chainable Smartport “hard drive”. People in the community expressed interest, so I’ve opened a web shop where people can get one in their preferred form factor:
 - [Gavin Anderegg](https://anderegg.ca/) I’m Gavin Anderegg. I'm a freelance software developer and project manager living in Halifax, Nova Scotia. I specialize in web app development, wrangling data, custom data visualization development, and helping technical teams tackle hard problems.
 - [Leaded Solder](https://www.leadedsolder.com/) Mostly about old computers like IIGS, 68k Macs etc
+- [Woz](https://woz.org/articles/letters/) Steve Wozniak aka “The Woz”
+  Co-founder, Apple
 
 # C/C++
 - [Abseil Blog](https://abseil.io/blog/) Abseil is an open source collection of C++ libraries drawn from the most fundamental pieces of Google’s internal codebase.
