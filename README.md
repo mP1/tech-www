@@ -412,6 +412,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Material 3](https://m3.material.io/blog/) Start building with Material 3 Expressive
 - [Svelte](https://svelte.dev/blog)
 - [Lea Verou, PhD](https://lea.verou.me/blog/) Hi, I’m Lea! 👋🏼 I make things for making things. I’m an award-winning web standards leader, and have designed several web technologies implemented in your browser. I have launched open source dev tools used by millions, and consult on my areas of expertise. I hold a PhD in usability & innovation from MIT — but chose product over research.
+- [Web Browser Engineering Blog](https://browserbook.substack.com/)
 - [web.dev](https://web.dev/blog) Blog - Our latest news, updates, and stories for developers
 
 # Zig
