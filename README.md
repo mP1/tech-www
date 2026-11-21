@@ -85,6 +85,7 @@ Blogs, news, mostly about technology mostly computing
   Most recently, I’ve been involved in data processing, devops and backend system development using Python (with Django) and Perl. I’m also experienced in technologies such as Linux, bash, vim, LaTeX, and Git (among others!), and I’m not shy when it comes to learning new systems and technologies. In fact, since I’m a generalist, you can throw any problem at me and I’ll work out how to solve it in whatever language or tools as necessary.
 - [Paul Graham](https://paulgraham.com/index.html)
 - [Pikuma](https://pikuma.com/blog) My name is Gustavo Pezzi, and I'm the founder of this education platform. I have spent many years working as a university lecturer in the United Kingdom, teaching computer science & mathematics.
+- [Pratik Deoghare](https://pratik.deoghare.com/)
 - [printer_scanner](https://earthly-delights.net/)
 - [purplesyringa](https://purplesyringa.moe/) Hi! 👋 I'm Alisa Sireneva (she/her), a software developer and blogger from Moscow. I specialize in performance optimization and systems programming. I also have experience with security, compression, and decentralized systems. My primary goal as a writer is to teach the concepts I regularly apply through accessible content. You might recognize me from bangers like:
 - [Quansight Labs](https://labs.quansight.org/blog)
