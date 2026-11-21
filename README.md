@@ -363,6 +363,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 # Rust
 
 - [Rust Blog](https://blog.rust-lang.org/)
+- [Edmond Vong](https://edvong.com/)
 
 # Search
 
