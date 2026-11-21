@@ -56,6 +56,7 @@ Blogs, news, mostly about technology mostly computing
 - [James Hague](https://prog21.dadgum.com/)
 - [Jardo](https://jardo.dev/blog) Hey, I'm Jared, but you can call me Jardo. I’m an experienced software developer, consultant, open-source maintainer, surfer, and metal head. I work with organizations all over the world to help them learn from the past and make the most of their technology.
 - [Joe’s Blog](https://jointhefreeworld.org/blog/)
+- [Jon Olick](https://www.jonolick.com/)
 - [John Regehr](https://blog.regehr.org/) Embedded in Academia
   John Regehr, Professor of Computer Science, University of Utah, USA
 - [Julia Evans](https://jvns.ca/) Hey! I'm Julia. Welcome to my blog. Here's every post I've ever written, organized by category. Enjoy! You can subscribe to a weekly digest of these blog posts. I publish computer zines at Wizard Zines.
