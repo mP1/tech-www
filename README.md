@@ -332,6 +332,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Programming Languages
 
+- [Eli Bendersky](https://eli.thegreenplace.net/)
 - [Rescript](https://rescript-lang.org/blog)
 
 # Python
