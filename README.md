@@ -159,6 +159,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Woz](https://woz.org/articles/letters/) Steve Wozniak aka “The Woz”
   Co-founder, Apple
 
+# Build
+
+- [Bazel](https://blog.bazel.build/)
+
 # C/C++
 - [Abseil Blog](https://abseil.io/blog/) Abseil is an open source collection of C++ libraries drawn from the most fundamental pieces of Google’s internal codebase.
 - [David's Blog](https://www.davidpriver.com/)
