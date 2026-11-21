@@ -346,6 +346,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Python
 
+- [Ezzeri Esa](https://www.ezzeriesa.com/)
 - [Pyronaut Blog](https://pyronaut.io/blog/) Read Pyronaut project news, release announcements, technical articles, and community updates.
 - [Python](https://www.python.org/blogs/)
 
