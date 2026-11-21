@@ -109,6 +109,7 @@ Blogs, news, mostly about technology mostly computing
 - [seldo](https://seldo.com/) I'm Laurie Voss. Developer, npm Inc co-founder, current Developer Relations person.
 - [simon frey](https://simon-frey.com/blog/)
 - [Skein](https://www.skeinnotes.app/blog) Occasional writing about Skein, Markdown, and why your notes should outlive the app you keep them in.
+- [Sub-Etha Software](https://subethasoftware.com/)
 - [t3](https://t3.at/)
 - [Tendrils](https://tendrils.co/blog/) A new general-purpose architecture.
   At Tendrils, we believe that the future of general-purpose computing lies beyond legacy architectures suited for legacy software. We’re answering the question: what if we redo the CPU? Instead of starting from a sequential design, we’re building our processor to have thousands of cores operating in parallel. This requires moving beyond the notion of shared mutable memory and linear instruction sequences. To make this possible, we’re working in tandem on the open-source language Vine, which has been designed from the beginning to target a new wave of parallel-first architectures.
