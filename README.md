@@ -240,6 +240,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
   My career started in 1984, making Jet Power Jack for the BBC Micro in my bedroom, and culminated in 2025 with the ambitious open-world racer Wreckreation. In the four decades between, I’ve had the privilege of being a coder, artist,  designer and producer on some of the industry’s most enduring names – from the punishing platforming of Rick Dangerous and the dark atmosphere of Shadow Man, to the magic of the Harry Potter series and the high-octane worlds of Burnout Paradise, Need for Speed and Wreckreation.
 - [Tyler Elton](https://tylerelton.com/posts/)
 
+# Google
+
+- [News from Google](https://blog.google/)
+
 # GO Lang
 
 - [The Go Blog](https://go.dev/blog/)
