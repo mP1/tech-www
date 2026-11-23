@@ -75,6 +75,7 @@ Blogs, news, mostly about technology mostly computing
 - [Martin Uecker](https://uecker.codeberg.page/blog.html)
 - [MaskRay](https://maskray.me/blog/archives)
 - [Maury Cyz](https://maurycyz.com/archive/)
+- [Max Bernstein](https://bernsteinbear.com/blog/)
 - [movq.de](https://movq.de/blog/)
 - [MTU Ninja - Vincent Bernat](https://vincent.bernat.ch/en/blog)
 - [Nolan Lawson](https://nolanlawson.com/) Read the Tea Leaves
