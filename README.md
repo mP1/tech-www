@@ -218,6 +218,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 - [Pydantic Blog](https://pydantic.dev/articles) Strongly typed opinions from the Pydantic team.
 
+# Docker
+
+- [Docker](https://www.docker.com/blog/)
+
 # DOS / Windows
 
 - [MartyPC](https://martypc.blogspot.com) Adventures in PC Emulation
