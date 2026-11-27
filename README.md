@@ -249,6 +249,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Google
 
+- [Full Stack Optimization](https://www.fullstackoptimization.com/p/articles)
 - [News from Google](https://blog.google/)
 
 # GO Lang
