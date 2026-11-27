@@ -445,6 +445,8 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Base31](https://www.base31.org/blog) Notes on the interesting internet. Guides, field notes, and practical ideas for finding, building, and sharing better corners of the web. New articles cover independent websites, useful tools, static publishing, and the people making the web more personal.
 - [Chrome for developers](https://developer.chrome.com/blog) Our latest news, updates, and stories for developers
 - [CSS-Tricks](https://css-tricks.com/category/articles/)
+- [gameuidatabase](https://www.gameuidatabase.com/) Browse 2,006 Games, 80,066 Screens and 2,572 Videos
+  The Ultimate reference tool for UI, UX and Game Designers.
 - [Guillermo Rauch](https://rauchg.com/)
 - [Josh W Comeau](https://www.joshwcomeau.com/) Hi there! I'm Josh.
   I started building on the web in 2007 and never stopped.
