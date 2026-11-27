@@ -391,6 +391,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 
 # Search
 
+- [Jono Alderson](https://www.jonoalderson.com/blog/) Independent technical SEO consultant
 - [Kagi](https://blog.kagi.com/) Tales from Kagi
 
 # Security
