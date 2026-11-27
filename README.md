@@ -145,6 +145,7 @@ Blogs, news, mostly about technology mostly computing
 - [Comma AI](https://blog.comma.ai/)
 - [Cursor](https://cursor.com/blog)
 - [Freestyle](https://www.freestyle.sh/blog) Full Linux VMs for AI Agents
+- [LangChain](https://www.langchain.com/blog)
 - [Nialse](https://nial.se/blog/) Notes on the future of knowledge work, artificial intelligence and thoughts along the way.
 - [Simon Edwardsson](https://simedw.com/) Hi, I'm Simon, co-founder of V7 where I lead engineering and product. Before V7, I co-founded Aipoly.
   I write a few times a year, mostly about AI (LLMs and Computer Vision) with occasional dives into functional programming.
