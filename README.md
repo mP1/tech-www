@@ -451,6 +451,7 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [gameuidatabase](https://www.gameuidatabase.com/) Browse 2,006 Games, 80,066 Screens and 2,572 Videos
   The Ultimate reference tool for UI, UX and Game Designers.
 - [Guillermo Rauch](https://rauchg.com/)
+- [HTML-in-canvas experiments](https://html-in-canvas.page/)
 - [Josh W Comeau](https://www.joshwcomeau.com/) Hi there! I'm Josh.
   I started building on the web in 2007 and never stopped.
   I’ve worked in senior engineering positions at organizations like Gatsby (acq. Netlify), DigitalOcean, and Khan Academy. I’ve also taught web development fundamentals at Concordia University.
