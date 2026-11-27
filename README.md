@@ -270,6 +270,10 @@ Not exclusively Apple/IOS/IPad but these have a focus.
 - [Haskell](https://blog.haskell.org/) Haskell Blog
 - [Johan Tibell](https://blog.johantibell.com/) Haskell and other things that interest me
 
+# Internet
+
+- [roddie digital on domains](https://pub.roddie.digital/)
+
 # Java
 
 - [Gunnar Morling](https://www.morling.dev/) Random Musings on All Things Software Engineering
